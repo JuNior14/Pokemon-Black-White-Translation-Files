@@ -1,33 +1,33 @@
-Que alfabeto desejas usar?\xfffePortuguês ou Hiragana?\xf000븁\x0000
-PT
-Hir
+Que língua preferes?\xfffePortuguês ou Japonês?\xf000븁\x0000
+Português
+Japonês
 それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁 \x0000
 não há dados
 Por favor aguarde...\xfffe
-Olá！\xfffeBem-vindo ao mundo dos pokemon!\xf000븁\x0000
-O meu nome é professora Araragi.\xf000븁\x0000Mas todos me chamam\xfffeProfessora Pokemon.\xf000븁\x0000
-Este mundo está habitado por\xfffecriaturas chamadas pokemon.\xf000븁\x0000Os humanos vivem em harmonia com eles \xfffecomo amigos.\xf000븁\x0000Ás vezes brincamos juntos\xfffe outras vezes trabalhamos em equipa.\xf000븁\x0000
-Algumas pessoas usam os pokemon para\xfffelutar e criar laços com eles\xf000븀\x0000 \xf000븁\x0000
-Agora,porque não me contas algo \xfffe sobre ti?\xf000븁\x0000
+Olá！\xfffeBem-vindo ao mundo dos Pokémon!\xf000븁\x0000
+O meu nome é Araragi, mas toda a gente\xfffeme chama Professora Pokémon.\xf000븁\x0000
+Este mundo é habitado por criaturas\xfffechamadas Pokémon.\xf000븁\x0000Nós, humanos, vivemos em harmonia com eles.\xf000븁\x0000Às vezes, brincamos juntos, outras\xfffetrabalhamos em equipa.\xf000븁\x0000
+Algumas pessoas usam os Pokémon para\xfffelutar e criam laços com eles.\xf000븁\x0000
+Porque não me falas sobre ti, agora?\xf000븁\x0000
 És rapaz?\xfffeOu rapariga?\xf000븁\x0000
 Então, és um rapaz?\xf000븁\x0000
 Então,és uma rapariga?\xf000븁\x0000
 Rapaz
 Rapariga
-Bem!\xf000븁\x0000Gostaria de saber o teu nome.\xfffeComo te chamas?\xf000븁\x0000
+Bem, agora gostaria de saber o teu nome.\xfffeComo te chamas?\xf000븁\x0000
 Então o teu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
 Então o teu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
 Sim
 Não
-\xf000Ā\x0001\x0000! Deixa-me apresentar-te \xfffeaos teus amigos!\xf000븁\x0000
-Bem..já os conheces...\xfffe,mas mesmo assim apresento-tos.\xf000븁\x0000
-Este é o Chelon.\xf000븁\x0000É um fanático por \xfffePokémon desde que tinha 2 anos.\xf000븁\x0000E lê bastante!\xf000븁\x0000
-E esta é a Bella.\xf000븁\x0000Esta rapariga\xfffesó atrai sarilhos...\xf000븁\x0000Está sempre a discutir com o \xfffeseu pai e sua mãe.\xf000븁\x0000
-E contigo no grupo,\xfffejá são 3!\xf000븁\x0000 Bom... Suponho que já tenhas percebido isso \xfffe, mas continuemos.\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xf000븁\x0000Estás quase pronto para \xfffeentrar no mundo dos pokemon!\xf000븁\x0000Lembra-te que deves seguir em frente,\xfffenão importa o que aconteça.\xf000븁\x0000Não o esqueças!\xf000븁\x0000Bom... Aqui vamos...\xfffee irei ver-te mais tarde.\xf000븁\x0000Vêm ao meu \xfffelaboratório o mais rápido possivel.\xf000븁\x0000Agora,entra no emocionante \xfffemundo dos pokemon!
+\xf000Ā\x0001\x0000, deixa-me apresentar-te a quem te\xfffeacompanhará pela tua viagem ao longo\xf000븁\x0000
+da região de Isshu!\xfffe \xf000븁\x0000
+Este é o Chelon.\xf000븁\x0000Ele é um bocado mal-humorado, de vez em\xfffequando, mas é muito sincero!\xf000븁\x0000
+Esta é a Bella.\xf000븁\x0000Ela tem tendência a fazer tudo a seu ritmo,\xfffemas é bastante persistente.\xf000븁\x0000
+E agora, eu vou dar-vos um presente com\xfffeos vossos tão esperados Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000Estás quase pronto para entrar no mundo\xfffedos Pokémon!\xf000븁\x0000Lembra-te que deves seguir sempre em\xfffefrente, aconteça o que acontecer.\xf000븁\x0000Não te esqueças destas palavras!\xf000븁\x0000Vem ao meu laboratório, o mais rápido\xfffepossível!\xf000븁\x0000Agora, vamos entrar no emocionante\xfffemundo dos Pokémon!
 Espera um segundo...!\xfffeEstou a fazer algumas preparações.
 Okey!\xfffeVamos faze-lo!\xf000븁\x0000
 Aviso!\xfffeTens outro relatório escrito,\xfffeestás prestes a iniciar uma jornada,\xfffenão poderás guardar.\xfffeEstá bem?
 Começar aventura
-Voltar ao Menu	
-Passar á frente?
+Voltar ao Menu\x0009
+Passar à frente?
