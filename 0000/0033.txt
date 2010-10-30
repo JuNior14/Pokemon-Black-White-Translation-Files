@@ -1,7 +1,7 @@
-Let's dress up \xf000Ă\x0001\x0000!
-Is this costume OK?
-Please wait for the\xfffeother participants.
+Vamos vestir-nos \xf000Ă\x0001\x0000!
+Este traje está bem?
+Por favor, aguarde os \xfffeoutros participantes.
 \xf000Ċ\x0001\x0000\xfffe\xf000ı\x0001\x0001に にあう グッズです
 \xf000ı\x0001\x0000に にあう グッズを\xfffeせんとうに ならびかえました
 グッズの ならびの じゅんばんを\xfffeもとに もどしました
-List of wearable goods\xfffefor this Pokémon
+Lista de roupas boas\xfffepara este Pokémon
