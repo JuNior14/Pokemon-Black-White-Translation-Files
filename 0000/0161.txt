@@ -1,48 +1,48 @@
-Wild Pokémon\xfffeare slightly easier to encounter.\xfffeThis effect lasts 3 minutes.
-Wild Pokémon\xfffeare easier to encounter.\xfffeThis effect lasts 3 minutes.
-Wild Pokémon\xfffeare very easy to encounter.\xfffeThis effect lasts 3 minutes.
-Wild Pokémon\xfffeare slightly more difficult to encounter.\xfffeThis effect lasts 3 minutes.
-Wild Pokémon\xfffeare more difficult to encounter.\xfffeThis effect lasts 3 minutes.
-Wild Pokémon\xfffeare much more difficult to encounter.\xfffeThis effect lasts 3 minutes.
-When walking with an egg,\xfffeit will hatch a little faster.\xfffeThis effect lasts 3 minutes.
-When walking with an egg,\xfffeit will hatch faster.\xfffeThis effect lasts 3 minutes.
-When walking with an egg,\xfffeit will hatch much faster.\xfffeThis effect lasts 3 minutes.
-While using a Pokémon,\xfffeits happiness will increase slightly.\xfffeThis effect lasts 3 minutes.
-While using a Pokémon,\xfffeits happiness will increase faster.\xfffeThis effect lasts 3 minutes.
-While using a Pokémon,\xfffeits happiness will increase very quickly.\xfffeThis effect lasts 3 minutes.
-Friendly Discount\xfffeGet a 10% discount at Poké Marts!\xfffeThis effect lasts 3 minutes.
-Friendly Discount\xfffeGet a 25% discount at Poké Marts!\xfffeThis effect lasts 3 minutes.
-Friendly Discount\xfffeGet a 50% discount at Poké Marts!\xfffeThis effect lasts 3 minutes.
-With this power\xfffethe Pokémon in the front of the party\xfffewill recover HP gradually.
-With this power\xfffethe Pokémon in the front of the party\xfffewill recover more HP gradually.
-With this power\xfffethe Pokémon in the front of the party\xfffewill recover even more HP gradually.
-With this power\xfffethe Pokémon in the front of the party\xfffewill recover PP gradually.
-With this power\xfffethe Pokémon in the front of the party\xfffewill recover more PP gradually.
-With this power\xfffethe Pokémon in the front of the party\xfffewill recover even more PP gradually.
-The EXP gained from battles\xfffeis increased a little.\xfffeThis effect lasts 3 minutes.
-The EXP gained from battles\xfffeis increased.\xfffeThis effect lasts 3 minutes.
-The EXP gained from battles\xfffeis increased considerably.\xfffeThis effect lasts 3 minutes.
-The EXP gained from battles\xfffeis decreased a little.\xfffeThis effect lasts 3 minutes.
-The EXP gained from battles\xfffeis decreased.\xfffeThis effect lasts 3 minutes.
-The EXP gained from battles\xfffeis decreased considerably.\xfffeThis effect lasts 3 minutes.
-The money gained from battle\xfffeis increased a little bit\xfffeThis effect lasts 3 minutes.
-The money gained from battle\xfffeis increased.\xfffeThis effect lasts 3 minutes.
-The money gained from battle\xfffeis increased considerably.\xfffeThis effect lasts 3 minutes.
-The chance to capture Pokémon\xfffeis increased a little.\xfffeThis effect lasts 3 minutes.
-The chance to capture Pokémon\xfffeis increased.\xfffeThis effect lasts 3 minutes.
-The chance to capture Pokémon\xfffeis increased considerably.\xfffeThis effect lasts 3 minutes.
-When walking with an egg,\xfffeit will hatch more easily.\xfffeThis effect lasts 30 minutes.
-Friendly Discount\xfffeGet a 50% discount at Poké Marts!\xfffeThis effect lasts 30 minutes.
-While using a Pokémon,\xfffeits happiness will increase very quickly.\xfffeThis effect lasts 30 minutes.
-The EXP gained from battles\xfffeis increased considerably.\xfffeThis effect last 30 minutes.
-The money gained from battle\xfffeis increased considerably.\xfffeThis effect last 30 minutes.
-The chance to capture Pokémon\xfffeis increased considerably.\xfffeThis effect last 30 minutes.
-Upon receiving this power,\xfffeall Pokémon on hand\xfffeare completely recovered.
-When walking with an egg,\xfffeit will hatch much more easily.\xfffeThis effect last 60 minutes.
-Friendly Discount\xfffeGet a 50% discount at Poké Marts!\xfffeThis effect last 60 minutes.
-While using a Pokémon,\xfffeits happiness will increase very quickly.\xfffeThis effect lasts 60 minutes.
-The EXP gained from battles\xfffeis increased considerably.\xfffeThis effect last 60 minutes.
-The money gained from battle\xfffeis increased considerably.\xfffeThis effect last 60 minutes.
-The chance to capture Pokémon\xfffeis increased considerably.\xfffeThis effect last 60 minutes.
-Dummy
-Dummy
+Os Pokï¿½mon selvagens\xfffesÃ£o ligeiramente faceis de encontrar.\xfffeO efeito dura 3 minutos.
+Os Pokï¿½mon selvagens\xfffesÃ£o faceis de encontrar.\xfffeO efeito dura 3 minutos.
+Os Pokï¿½mon selvagens\xfffesÃ£o muito faceis de encontrar.\xfffeO efeito dura 3 minutos.
+Ã‰ ligeiramente dificil encontrar\xfffePokï¿½mon selvagens.\xfffeO efeito dura 3 minutos.
+Ã‰ dificil encontrar\xfffePokï¿½mon selvagens\xfffeO efeito dura 3 minutos.
+Ã‰ muito dificil encontrar\xfffePokï¿½mon selvagens.\xfffeO efeito dura 3 minutos.
+Quando caminhares com um Ovo\xfffevai eclodir mais rapidamente.\xfffeO efeito dura 3 minutos.
+Quando caminhares com um Ovo\xfffevai eclodir rapidamente.\xfffeO efeito dura 3 minutos.
+Quando caminhares com um Ovo\xfffevai eclodir muito rapidamente.\xfffeO efeito dura 3 minutos.
+Enquanto usares um Pokï¿½mon,\xfffesobe ligeiramente a felicidade.\xfffeO efeito dura 3 minutos.
+Enquanto usares um Pokï¿½mon,\xfffesobe rapidamente a felicidade.\xfffeO efeito dura 3 minutos.
+Enquanto usares um Pokï¿½mon,\xfffesobe muito rÃ¡pido a felicidade.\xfffeO efeito dura 3 minutos.
+Desconto de Amigo\xfffeObtens 10% de desconto no Pokï¿½ Marts!\xfffeO efeito dura 3 minutos.
+Desconto de Amigo\xfffeObtens 25% de desconto no Pokï¿½ Marts!\xfffeO efeito dura 3 minutos.
+Desconto de Amigo\xfffeObtens 50% de desconto no Pokï¿½ Marts!\xfffeO efeito dura 3 minutos.
+Com este poder\xfffeo Pokï¿½mon em 1Âº na equipa\xffferecuperara HP gradualmente.
+Com este poder\xfffeo Pokï¿½mon em 1Âº na equipa\xffferecuperara mais HP gradualmente.
+Com este poder\xfffeo Pokï¿½mon em 1Âº na equipa\xffferecuperara ainda mais HP gradualmente.
+Com este poder\xfffeo Pokï¿½mon em 1Âº na equipa\xffferecuperara PP gradualmente.
+Com este poder\xfffeo Pokï¿½mon em 1Âº na equipa\xffferecuperara mais PP gradualmente.
+Com este poder\xfffeo Pokï¿½mon em 1Âº na equipa\xffferecuperara ainda mais PP gradualmente.
+A EXP ganha nos combates\xfffeaumenta ligeiramente.\xfffeO efeito dura 3 minutos.
+A EXP ganha nos combates\xfffevai aumentando.\xfffeO efeito dura 3 minutos.
+A EXP ganha nos combates\xfffevai consideravelmente aumentando.\xfffeO efeito dura 3 minutos.
+A EXP ganha nos combates\xfffediminui ligeiramente.\xfffeO efeito dura 3 minutos.
+A EXP ganha nos combates\xfffevai diminuindo.\xfffeO efeito dura 3 minutos.
+A EXP ganha nos combates\xfffevai consideravelmente diminuindo.\xfffeO efeito dura 3 minutos.
+O dinheiro ganho nos combates\xfffeaumenta ligeiramente\xfffeO efeito dura 3 minutos.
+O dinheiro ganho nos combates\xfffevai aumentando.\xfffeO efeito dura 3 minutos..
+O dinheiro ganho nos combates\xfffevai consideravelmente aumentando.\xfffeO efeito dura 3 minutos.
+A chance de capturar Pokï¿½mon\xfffeaumenta ligeiramente.\xfffeO efeito dura 3 minutos.
+A chance de capturar Pokï¿½mon\xfffevai aumentando.\xfffeO efeito dura 3 minutos.
+A chance de capturar Pokï¿½mon\xfffevai consideravelmente aumentando.\xfffeO efeito dura 3 minutos.
+Quando caminhares com um Ovo,\xfffeirÃ¡ ser mais facil de eclodir.\xfffeO efeito dura 30 minutos.
+Desconto de Amigo\xfffeObtens 50% de desconto no Pokï¿½ Marts!\xfffeO efeito dura 30 minutos
+Enquanto usares um Pokï¿½mon,\xfffesobe muito rapidamente a felicidade.\xfffeO efeito dura 30 minutos
+A EXP ganha nos combates\xfffevai consideravelmente aumentando.\xfffeO efeito dura 30 minutos
+O dinheiro ganho nos combates\xfffevai consideravelmente aumentando.\xfffeO efeito dura 30 minutos
+A chance de capturar Pokï¿½mon\xfffevai consideravelmente aumentando.\xfffeO efeito dura 30 minutos
+Ao receber este poder,\xfffetodos os Pokï¿½mon da equipa\xfffesÃ£o completamente recuperados.
+Quando caminhares com um Ovo,\xfffeirÃ¡ eclodir mais facilmente.\xfffeO efeito dura 60 minutos.
+Desconto de Amigo\xfffeObtens 50% de desconto no Pokï¿½ Marts!\xfffeO efeito dura 60 minutos.
+Enquanto usares um Pokï¿½mon,\xfffea felicidade vai subindo rapidamente.\xfffeO efeito dura 60 minutos.
+A EXP ganha nos combates\xfffeaumenta consideravelmente.\xfffeO efeito dura 60 minutos.
+O dinheiro ganho nos combates\xfffeaumenta consideravelmente.\xfffeO efeito dura 60 minutos.
+A chance de capturar Pokï¿½mon\xfffeaumenta consideravelmente.\xfffeO efeito dura 60 minutos.
+Boneco
+Boneco
