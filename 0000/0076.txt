@@ -1,24 +1,24 @@
-Man
-Girl
-Woman
-Boy
+Homen
+Rapariga
+Mulher
+Rapaz
 Cool
-Cute
-Elegant
-Unique
+Bonito
+Elegante
+Único
 こせいてき
-Good balance
-Cool song
-Cute song
-Elegant song
-Unique song
-Transmitted Song
-Transmitted dummy
-Ears
-Head
-Face
-Face
-Body
-Hips
-Elbow
-Face
+Bom Equilíbrio
+Musica Fixe 
+Bonita Musica
+Musica Elegante
+Musica Única 
+Musica Transmitida
+Manequim Transmitido
+Orelhas
+Cabeça
+Rosto
+Cara
+Corpo
+Quadris
+Cotovelo
+Rosto
