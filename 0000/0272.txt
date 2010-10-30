@@ -1,51 +1,51 @@
-Search Mode
-Please enter the search criteria.
-Search Results
-RESULTS: \xf000Ȃ\x0001\x0000
-Select the Pokédex listing mode.
-List by the first letter in the name.
-List by type.
-List by body style.
-List by body color.
-Pokémon found!
-Not found...
-Searching...
-Order
-Name
-Type
-Color
-Forme
-Isshu Dex: Search Mode
-National Dex: Search Mode
-Reset
-Start
-Cancel
+Modo Busca
+Por favor coloque o critério de pesquisa.
+Resultados da pesquisa
+RESULTADOS:　\xf000Ȃ\x0001\x0000
+Selecione o modo de listagem da pokédex.
+Listar pela primeira letra do nome.
+Listar pelo tipo.
+Listar pelo tipo de corpo.
+Listar pela cor do corpo.
+Pokémon achado!
+Não encontrado...
+procurando...
+Ordem
+Nome
+Tipo
+Cor
+Forma
+Dex de Isshu: Modo de pesquisa
+Dex National: Modo de pesquisa
+Voltar
+Começar
+Cancelar
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-Accept
-Cancel
-Numerical
-A to Z
-Heaviest
-Lightest
-Tallest
-Shortest
-Type
-Rock
-Psychic
-Fighting
-Grass
-Ice
-Ghost
-Ground
-Electric
-Poison
-Dragon
+Aceitar
+Cancelar
+Numérico
+A à Z
+Mais pesado
+mais leve
+Mais alto
+Mais baixo
+Tipo
+pedra
+Psíquico
+Lutador
+Planta
+Gelo
+Fantasma
+Terra
+Elétrico
+veneno
+Dragão
 Normal
-Steel
-Flying
-Fire
-Water
-Bug
+Metal
+Voador
+Fogo
+Àgua
+Inseto
 ――――
 ／
 ――――
@@ -94,14 +94,14 @@ Bug
 ロ
 ワ.
 ―
-Red
-Blue
-Yellow
-Green
-Black
-Brown
-Purple
-Gray
-White
-Pink
+Vermelho
+Azul
+Amarelo
+Verde
+Preto
+Marrom
+Roxo
+Cinza
+Branco
+Rosa
 ――――
