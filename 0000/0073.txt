@@ -1,106 +1,106 @@
-None
-ON
-OFF
-Pink Barrette
-Blue Barrette
-Red Barrette
-Blue Flower
-Red Scarf
-Red Flower
-Big Barrette
-Headdress
-Square Glasses
-Striped Barrette
-Small Barrette
-Decorative Ribbon
-Tote Bag
-Necklace
-Guady Flower
-Round Button
-Green Barrette
-Straw Hat
-Ice Crystal
-Single Flower
-Paintbrush
-Beret
-Eggbeater
-Egg
-Cake Prop
-Chef's Hat
-Frying Pan
-Apron
-Red Parasol
-Wind Mask
-Hammer
-Colorful Parasol
-Wrench
-Latern
-Screw
-Helmet
-Dress Apron
-Dress Tie
-Red Dress
-Red Mantle
-Toy Katana
-Toy Sword
-Pirate Hat
-Cowboy Hat
-Sturdy Shield
-Black Wings
-Witch's Hat
-White Wings
-Brown Buckle
-Spiked Helmet
-Thin Spear
-Magical Staff
-Red Nose
-Colorful Hat
-Spiral Glasses
-Crown
-Black Necktie
-Black Mantle
-Gorgeous Glasses
-Silk Hat
-White Mask
-White Mantle
-Gentlemanly Glasses
-Steak
-Slanted Necktie
-Small Watch
-Bowtie
+Nenhum
+Ligado
+Desligado
+Gancho Cor-de-rosa
+Gancho Azul
+Gancho Vermelho
+Flor Azul
+Cascol Vermelho
+Flor Vermelha
+Gancho grande
+Katyusha
+Óculos Quadrados
+Gancho às Riscas
+Gancho Pequeno
+Laço Decorativo
+Mala
+Colar
+Flor Mirabolante
+Botão Redondo
+Gancho verde
+Chapéu de Palha
+Cristal de Gelo
+Flor
+Pincel
+Gancho
+Batedeira
+Ovo
+Bolo
+Chapéu de Cozinheiro
+Frigideira
+Avental
+Guarda-sol Vermelho
+Máscara para Vento
+Martelo
+Guarda-sol Colorido
+Chave Inglesa
+Lanterna
+Parafuso
+Capacete
+Vestido Avental
+Gravata
+Vestido Vermelho
+Manto Vermelho
+Katana de Brincar
+Espada de Brincar
+Chapéu Pirata
+Chapéu Cowboy
+Escudo Robusto
+Asas Pretas
+Chapéu de Bruxa
+Asas Brancas
+Fivela Castanha
+Capacete com Espinhos
+Lança Fina
+Bastão Magico
+Nariz Vermelho
+Chapéu Colorido
+Óculos em Espiral
+Coroa
+Gravata Preta
+Manto Preto
+Óculos Fantásticos
+Chapéu de Seda
+Máscara Branca
+Manto Branco
+Óculos Cavalheirescos
+Bife
+Gravata Inclinada
+Pequeno Relógio
+Laço
 Tiara
-Rose
-Monocle
-Striped Necktie
+Rosa
+Monóculo
+Gravata com Riscas
 Afro
-Microphone Stad
-Tambourine
-Small Hat
-Handheld Microphone
+Microfone Fixo
+Tamborim
+Pequeno Chapéu
+Microfone
 Maracas
-Trumpet
-Grass Crown
-White Pom-pon
-Flag
-Ball
-Champion's Belt
-Racket
-Electric Guitar
-Toy Fishing Rod
-Smiling Mask
-Belly Button
-Professor's Hat
-Leaf Skirt
-Thick Book
+Trompete
+Coroa de Ervas
+Pom-pom Branco
+Bandeira
+Bola
+Cinto de Campeão
+Raquete
+Guitarra Eléctrica
+Cana de Pesca de Brincar
+Máscara com um Sorriso
+Umbigo
+Chapéu de Professor
+Saia de Folhas
+Livro Grosso
 Bouquet
-Replica Bone
-Round Mushroom
+Replica de Osso
+Cogumelo Redondo
 Shuriken
-Red Hat
-Big Bag
-Candy
-Flowing Beard
-Present Box
+Chapéu Vermelho
+Mala Grande
+Doces
+Barba
+Presente
 
 
 
