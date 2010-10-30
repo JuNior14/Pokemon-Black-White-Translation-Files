@@ -1,67 +1,67 @@
-No. Seen
-No. Caught
+No. Vistos
+No. Apanhados
 JPN
 ENG
 FRA
 GER
 ITA
 SPA
-Details
+Detalhes
 \xf000Ȃ\x0001\x0000
-HT
-WT
-Search Mode
-Please enter the search criteria.
-Search Results
-RESULTS \xf000Ȃ\x0001\x0000
-Select the Pokédex listing mode.
-List by the first letter in the name.
-List by type.
-List by weight range.
-List by height range.
-List by body style.
-List by area.
-No matching Pokémon were found.
-Not found...
-Searching...
-Order
-Name
-Type
-HT
-WT
+FP
+FH
+Modo de Pesquisa
+Por favor introduza os critérios de pesquisa.
+Resultados de Pesquisa
+RESULTADOS\xf000Ȃ\x0001\x0000
+Seleccionar o modo de lista da Pokédex.
+Lista da primeira letra do nome.
+Lista de tipos.
+Lista por faixa de peso.
+Lista por faixa de altura.
+Lista por estilo de corpo.
+Lista por area.
+Nenhum Pokémon correspondente foi encontrado.
+Não foi encontrado...
+A Pesquisar...
+Ordem
+Nome
+Tipo
+FP
+FA
 Area
-Shape
+Forma
 Kanto
 Johto
-Reset
-Start
-Cancel
+Reniciar
+Começar
+Cancelar
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-Accept
-Cancel
-Numerical
-A to Z
-Heaviest
-Lightest
-Tallest
-Shortest
-Dark
-Rock
-Psychic
-Fight
-Grass
-Ice
-Ghost
-Ground
-Electric
-Poison
-Dragon
+Aceitar
+Cancelar
+Numericos
+A a Z
+Mais Pesado
+Mais Leve
+Mais Alto
+Mais Baixo
+Escuro
+Rocha
+Psíquico
+Lutador
+Erva
+Gelo
+Fantasma
+Terra
+Eléctrico
+Venenoso
+Dragão
 Normal
-Steel
-Flying
-Fire
-Water
-Bug
+Aço
+Voador
+Fogo
+Água
+Insecto
 ーーーー
 Johto
 Kanto
@@ -112,86 +112,86 @@ Unknown
 ロ
 ワ
 ー
-Male
-Female
-West Sea
-East Sea
-Plant Cloak
-Sandy Cloak
-Trash Cloak
-One form
+Macho
+Femimino
+Mar Ocidental
+Mar do Leste
+Capa de Planta
+Capa de Areia
+Capa de Lixo
+Uma Forma
 JP Pokédex
 EN Pokédex
 FR Pokédex
 GE Pokédex
 IT Pokédex
 SP Pokédex
-Area Unknown
-Morning
-Day
-Night
-Switch
+Area Desconhecida
+Manhã
+Dia
+Noite
+Mudar
 \xf000ą\x0001\x0000
-Show all
-Show all
-Height Check
-Weight Check
+Mostrar Todos
+Mostrar Todos
+Exame de Altura
+Exame de Peso
 １．６０ｍ
 １．４８ｍ
 ４５．０ｋｇ
 ３８．０ｋｇ
 Area
-Size
-Pokédex registration completed.
-Normal Forme
-Attack Forme
-Defense Forme
-Speed Forme
-Land Forme
-Sky Forme
-Altered Forme
-Origin Forme
+Tamanho
+Registro da Pokédex completa.
+Forma Normal 
+Forma de Ataque
+Forma de Defesa
+Forma de Velocidade
+Forma da Terra
+Forma do Céu
+Forma Alterada
+Forma Original
 Rotom
-Heat Rotom
-Wash Rotom
-Frost Rotom
-Fan Rotom
-Mow Rotom
+Aquecedor Rotom
+Lavandaria Rotom
+Congeladora Rotom
+Fã Rotom
+Ceifa Rotom
 \xf000ā\x0001\x0000のすがた
 Normal
-Sunny Form
-Rainy Form
-Snowy Form
-Overcast Form
-Sunshine Form
-Spiky-eared
+Forma de Sol
+Forma de Chuva
+Forma de Neve
+Forma Sombria
+Forma Solar
+Spiky-Orelhudo
 \xf000ā\x0001\x0000：
-Compare
-Compare \xf000ā\x0001\x0000
-Forms
-Switch
-Cancel
-Cancel
-Return to list
-Give a nickname to \xfffethe caught \xf000ā\x0001\x0000?
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in someone's PC!
-\xf000Ă\x0001\x0000 was transferred to\xfffe\xf000ċ\x0001\x0001 in Shouro's PC!
-Information
-Map
-Voice
-Forme
-Forme
+Comparar
+Comparar \xf000ā\x0001\x0000
+Formas
+Mudar
+Cancelar
+Cancelar
+Voltar á Lista
+つかまえた　\xf000ā\x0001\x0000に\xfffeニックネームを　つけますか？
+\xf000Ă\x0001\x0000は　だれかの　パソコンの\xfffe\xf000ċ\x0001\x0001に　てんそうされた！
+\xf000Ă\x0001\x0000は　ショウロの　パソコンの\xfffe\xf000ċ\x0001\x0001に　てんそうされた！
+Informação
+Mapa
+Voz
+Forma
+Forma
 \xf000Ȁ\x0001\x0000'\xf000ȁ\x0001\x0001"
-Forms Seen:
-Different Forms:
+Formas vistas:
+Diferentes formas:
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
  
-\xf000ā\x0001\x0000's location(s)
-Spring
-Summer
-Autumn
-Winter
+\xf000ā\x0001\x0000 localização(ões)
+Primavera
+Verão
+Outono
+Inverno
 ???
 HT
 HAUT.
@@ -199,7 +199,7 @@ GR.
 ALTEZ.
 ALT.
 키
-Weight
+Peso
 POIDS
 GEW.
 PESO
