@@ -1,17 +1,17 @@
-Welcome to Geonet,\xfffethe high-tech globe!\xf000븁\x0000
-What would you like to do?
-Here, you may register the location\xfffeof where you live.\xf000븁\x0000That information may be provided to\xfffefriends and strangers through\xf000븁\x0000DS Wireless Communications or over\xfffeNintendo WFC.\xf000븁\x0000Would you like to register your\xfffehome’s location area?
-Please select the location in which\xfffeyou live.
-Please select the area in which\xfffeyou live.
-Once registered, you may not change\xfffeyour registered location data.\xf000븁\x0000Should this location be registered\xfffeas where you live?
+Bem-vindo ao Geonet,\xfffea alta tecnologia global!\xf000븁\x0000
+O que gostarias de fazer?
+Aqui, tu podes registrar a localização\xfffede onde moras.\xf000븀\x0000Essa informação pode ser fornecida a\xf000븁\x0000amigos e desconhecidos através do\xfffeDS Wireless Communications ou do\xf000븀\x0000Nintendo WFC.\xf000븀\x0000\xf000븀\x0000\xf000븁\x0000あなたGostaria de registrar a \xfffelocalização da sua casa?
+Por favor, selecione o local em que\xfffetu vives.
+Por favor, selecione a área em que\xfffetu vives.
+Uma vez registrado, não podes\xfffealterar os teus dados.\xf000븀\x0000Esta localização deve ser registrada\xf000븁\x0000ほ\xfffecomo tua morada?
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
-Yes
-No
-See List
-Register
-Quit
+Sim
+Não
+Ver a lista
+Registrar
+Sair
 \xf000ȅ\x0000View
-Your registered location:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-To display registered locations, line up\xfffethe cursor, and press the X Button.
-\xf000ȅ\x0000Quit
+A tua localizção:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+Para exibir localizações registadas, alinhe\xfffeo cursor, e aperte o botão X.
+\xf000ȅ\x0000Sair
