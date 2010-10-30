@@ -1,5 +1,5 @@
-Items
-Medicine
-TMs and HMs
-Berries
-Key Items
+Itens
+Medicina
+TMs e HMs
+Bagas
+Itens Chave
