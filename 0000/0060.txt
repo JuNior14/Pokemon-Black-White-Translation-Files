@@ -1,6 +1,6 @@
-Confirm
-Quit
-Please enter a phrase or word.
-Stop giving the Pokémon\xfffeMail?
-Yes
-No
+Confirmar
+Sair
+Por favor introduza uma frase ou palavra.
+Parar de dar o correio ao \xfffePokémon?
+Sim
+Não
