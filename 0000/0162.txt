@@ -1,6 +1,6 @@
 ----
-Power Route - 1
-Power Route - 2
-Power Route - 3
-Power Route - 4
-Power Route - 5
+Rota de Alimentação - 1
+Rota de Alimentação - 2
+Rota de Alimentação - 3
+Rota de Alimentação - 4
+Rota de Alimentação - 5
