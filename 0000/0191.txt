@@ -1,105 +1,105 @@
-Pokémon Trainer
-Pokémon Trainer
-Youngster
-Lass
-School Boy
-School Girl
-Tennis Player
-Footballer
-Waiter
-Waitress
-Gym Leader
-Gym Leader
-Gym Leader
-Nursery Worker
-Kindergartener
-Kindergartener
-Twins
-Pokémon Breeder
-Pokémon Breeder
-Gym Leader
-Gym Leader
-Gym Leader
-Gym Leader
-Gym Leader
-Pokémon Ranger
-Pokémon Ranger
-Worker
-Backpacker
-Backpacker
-Fisherman
-Musician
-Breakdancer
-Clown
-Artist
-Baker
-Psychic
-Psychic
-Pokémon Trainer
-Pokémon Trainer
+Treinador PKMN 
+Treinadora PKMN 
+Jovem
+Moça
+Menino da escola
+Menina da escola
+Jogador de tenis
+Futebolista
+Empregado
+Empregada
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Professora de creche
+Estudante da creche
+Estudante da creche
+Gemeas
+Criador Pokemon 
+Criadora Pokemon 
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Vagabundo Pokemon 
+Vagabunda Pokemon 
+Trabalhador
+Viajante
+Viajante
+Pescador
+Músico
+Dançarino
+Palhaço
+Artista
+Padeiro
+Psiquico
+Psiquica
+Treinador Pokemon 
+Treinadora Pokemon 
 Team Plasma
-Pokémon Trainer
-Rich Boy
-Lady
-Pilot
-Worker
-Basketballer
-Researcher
+Treinador PKMN 
+Rapaz rico
+Rapariga rico
+Piloto
+Trabalhador
+Jogador de Basquetebol
+Investigador
 Team Plasma
-Secretary
-Ace Trainer
-Ace Trainer
-Karate King
-Researcher
-Soccer Player
-Gym Leader
-Gym Leader
-Gym Leader
-Cue Ball
-Cleaner
-Pokéfan
-Pokéfan
-Doctor
-Nurse
+Mulher de Escritório
+Treinador de Elite
+Treinadora de Elite
+Rei do Karaté
+Investigador
+Jogador de Futebol
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Cabeças de Pele
+Membro de Limpeza
+Poké Maniaco
+Poké Maniaca
+Doutor
+Infermeira
+Equipa Dupla
+Rapariga de Batalha
+Senhora com Guarda-sol
+Homem de Negócios
+Mulher de Negócios
+Fã Pokémon
+Fã Pokémon
+Treinador Veterano
+Treinadora Veterana
 Gangster
-Battle Girl
-Parasol Lady
-Businessman
-Businessman
-Fanclubber
-Fanclubber
-Veteran
-Veteran
-Biker
-Baseballer
-Hiker
-Socialite
-Gentleman
+Jogador de Basebol
+Montanhista
+Senhora
+Homem
 Team Plasma
-Elite Four
-Elite Four
-Elite Four
-Elite Four
+Elite 4
+Elite 4
+Elite 4
+Elite 4
 Team Plasma
-Railroad Worker
-Swimmer
-Bikini Swimmer
-Police Officer
-Maid
-Subway Master
-Champion
-Cyclist
-Cyclist
-Bike Enthusiast
-Bourgeoise
-Bourgeoise
-Bourgeoise
-Bourgeoise
+Trabalhador Ferroviário
+Nadador
+Senhora em Bikini
+Policial
+Criada
+Mestre do Metro
+Campeão
+Biciclista
+Biciclista
+Amante de Bicileta
+Burguesa
+Burguesa
+Burguesa
+Burguesa
 Game Freak
-Bourgeoise
-Bourgeoise
-Pokémon Trainer
+Burguesa
+Burguesa
+Treinador PKMN 
 Team Plasma
-Subway Master
-Pokémon Trainer
-Pokémon Trainer
+Mestre do Metro
+Treinador PKMN 
+Treinadora PKMN 
