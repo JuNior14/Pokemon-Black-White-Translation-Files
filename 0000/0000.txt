@@ -1,113 +1,113 @@
 N/A
 Preto
-White
-Boy
-Girl
-Battle
-Trade
-City
-Country
-Smart
-Athletic
-Time
-Money
-Looks
-Personality
+Branco
+Rapaz
+Rapariga
+Batalha
+Intercâmbio
+Cidade
+País
+Inteligente
+Atlético
+Tempo
+Dinheiro
+Estilos
+Personalidade
 Cool
-Cute
-Funny
+Lindo
+Estranho
 Pokabu
 Mijumaru
 Shita-ja
-Sea
-River
-Mountain
-Class
-Break
-School lunch
-Family
-Friends
-Self
-Spring
-Summer
-Fall
-Winter
-Sweet
-Spicy
-Sour
-Bitter
-Interesting
+Mar
+Río
+Montanha
+Aula
+Quebrar
+Almoços escolares
+Familia
+Amigos
+Auto
+Primavera
+Verão
+Queda
+Inverno
+Doce
+Picante
+Azedo
+Amargo
+Interessante
 Cool
-Nice
-Rich
-Battle
-Collect
-Story
+Bom
+Rico
+Luta
+Recolher
+História
 Pokémon
-First Language
-Math
-Science
-Social Studies
-First Language
-Math
-Science
-Social Studies
-Trainer
-Pokémon Professor
-Team Plasma
+Primeira Lingua
+Matemática
+Ciência
+Sociedade
+Primeira Lingua
+Matemática
+Ciência
+Sociedade
+Treinador
+Professor Pokémon
+Equipa Plasma
 Pokémon
-Play Outside
-Shop
-Read
-Game
-Sleep
-Pop
+Jogar ao ar livre
+Loja
+Ler
+Jogo
+Sono
+Popular
 Rock
 Jazz
 Rap
-Classic
-News
+Classico
+Noticias
 Drama
-Comedy
-Sports
+Comedia
+Desportos
 Anime
-Action
+Acção
 SF
-Love
+Amor
 Suspense
-Comedy
+Comedia
 Horror
-Baseball
-Soccer
-Basketball
-Football
+Basebol
+Futebol
+Basquetebol
+Futebol
 Hockey
-Martial Arts
-Red
-Green
-Blue
-Yellow
-White
-Black
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
 Fitness
-Reading
-Music
-Movies
-Travel
-Cooking
-Fishing
-Games
-Student
-Office Worker
-Creator
-Self-employed
-Govt. Official
-Housewife
-Artist
-Job-Hopper
-Pod
-Dent
-Corn
+Ler
+Musica
+Filmes
+Viagem
+Cozinhar
+Pescar
+Jogos
+Estudante
+Secretario
+Criador
+Empregado
+Govt. Oficial
+Ama
+Artista
+Trabalho
+Podda
+Dento
+Koon
 Aloe
 Arti
 Kamitsure
@@ -117,22 +117,22 @@ Hachiku
 Iris
 Shaga
 Normal
-Fire
-Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
+Fogo
+Água
+Electricidade
+Erva
+Gelo
+Luta
+Veneno
+Terra
+Voador
+Psiquico
+Insecto
+Rocha
+Fantasma
+Dragão
+Escuro
+Aço
 0 - 10 hours
 10 - 20 hours
 20 - 30 hours
