@@ -1,67 +1,67 @@
-The date is \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
+A Data é: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
-◇Trainer from Kanoko Town is victorious over Sanyou Gym Leaders Corn, Pod, and Dent!
-◇Trainer from Kanoko Town is victorious over Shippo Gym Leader Aloe!
-◇Trainer from Kanoko Town is victorious over Hiun Gym Leader Arti!
-◇Trainer from Kanoko Town is victorious over Raimon Gym Leader Kamitsure!
-◇Trainer from Kanoko Town is victorious over Hodomoe Gym Leader Yacon!
-◇Trainer from Kanoko Town is victorious over Fukoyose Gym Leader Fuuro!
-◇Trainer from Kanoko Town is victorious over Sekka Gym Leader Hachiku!
-◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Iris!
-◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Shaga!
-◇"Tender love and care! They'll grow up quick!" Route 3 Daycare
-◇"Discover the future told by your names!" Hiun City Name Rater
-◇"What're they up to? Let's survey!" Hiun City Chance-Upon Survey
-◇"Ride and fight on! This train never stops!" Raimon City Battle Subway
-◇"The stairway to stardom begins here!" Raimon City Musical Hall
-◇"Here come your items, over the wind and waves to you!" Hodomoe Market
-◇"We've got it all at Isshu's biggest shopping district!" Shopping Mall R9
-◇From Sanyou City, you can smell the refreshing breeze of the forest!
-◇The stairs leading into the gate prevent snow from piling in.
-◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
-◇Lushgreen Park will warm your heart!
-◇Many trainers visit the daycare next to the city.
-◇Study Pokemon from the basics at the Trainer's School!
-◇From Sanyou City, you can smell the refreshing breeze of the forest!
-◇The stairs leading into the gate prevent snow from piling in.
-◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
-◇Shippo City has stone roads and warehouses!
-◇The museum researches everything from bones to Pokémon!
-◇Shippo Gym is a museum that will test your might and wisdom!
-◇Young artist turning dilapidated warehouse into a studio!
-◇Tourists come just to see the warehouses and the museum!
-◇You can also see the remains of the track that ran through town!
-◇A town where appreciators of the fine arts gather!
-◇The museum is themed around the comparison of civilization and nature!
-◇Many famous artists were born in Shippo City!
-◇The obscure specialty Hiun Ice is becoming majorly popular!
-◇The ships taking off from Hiun City's piers have a variety of destinations!
-◇Even compared against the bustle of Hiun City, the gym is still surprising...?
-◇The central fountain is said to be a place for people to connect!
-◇Artists the world over display galleries in Hiun City!
-◇In terms of buildings, shops, and population, Hiun City is number one in Isshu!
-◇The streets of Hiun City are a totally different spectacle at night and in day!
-◇Hiun City is a boiling pot of cultures and foods from various lands!
-◇There's a place investigating the way people happen upon other people!
+◇O treinador de Kanoko Town venceu o lider de ginásio  Koon-Poddo-Dento em Sanyou!！
+◇O treinador de Kanoko Town venceu o lider de ginásio  Aloe em Shippou！
+◇O treinador de Kanoko Town venceu o lider de ginásio  Artie em Hiun ！
+◇O treinador de Kanoko Town venceu o lider de ginásio  Kamitsure em Raimon！
+◇O treinador de Kanoko Town venceu o lider de ginásio  Yaakon em Hodomoe！
+◇O treinador de Kanoko Town venceu o lider de ginásio  Fuuro em Fukiyose！
+◇O treinador de Kanoko Town venceu o lider de ginásio  Hachiku em Sekka！
+◇O treinador de Kanoko Town venceu o lider de ginásio  Iris em Souryuu!！
+◇O treinador de Kanoko Town venceu o lider de ginásio  Shaga em Souryuu！
+◇'Want your Pokémon to grow stronger? Go to Route 3!' Route 3 Daycare.
+◇'Guided by great Friendship ' Hiun City continues to grow.
+◇'Pokémon tired? Need to battle? Go to the red building!' Pokémon Center.
+◇'Test your skills at the Battle Subway!' Raimon Battle Subway.
+◇'I'm going to be a big star! The Musical Hall!' Raimon Musical Hall.
+◇'Get the items often carried in the inventory' Hodomoe Market.
+◇'Go shopping now, you won't regret it!' the Ishu Departement Store.
+◇'Cool fragrant winds and forest all around' Sanyou City.
+◇There are stairs at the entrance to avoid the snow.
+◇The Sanyou Gym　is a place where both knowledge and battles are tested.
+◇The green lush garden fills your heart with warmth.
+◇Next to town is a house where many trainers come to battle.
+◇Learn about Pokémon at the trainer school.
+◇Sanyou City is surrounded by cool fragrant winds and forest all around.
+◇There are stairs at the entrance to avoid the snow.
+◇The Sanyou Gym　is a place where both knowledge and battles are tested.　
+◇'Noted for its cobbled streets & warehouses' Shippou City.
+◇The museum has been studying the Pokémon's bones.
+◇The Shippou Gym　is a museum where you can explore battle and knowledge.
+◇The warehousehouse studio has lots of talented artists.
+◇Visitors come to watch the warehouse district and Museum.
+◇You are still able to see the railroad remnants.
+◇Be fascinated by the art district where people gather.
+◇The theme of the museum is cultural and natural contrasts.
+◇Many famous artists were born in Shippou City.
+◇Hiun City is famous for its hidden speciality - Hiun Icecream.
+◇Hiun City features piers where many ships sail to different areas.
+◇What tricks and surprises awaits in the Hiun Gym...?
+◇The Central Fountain is said to connect the people everywhere.
+◇The Art Gallery is open to artists all around the world.
+◇This building's population is the highest in all of Hiun City.
+◇The Skyline in Hiun looks totally different during day and night.
+◇Hiun City has its own cuisine and cultural ethnicity mixed with many countries.
+◇The place where the differences of Human and Pokémon are researched.
 ◇Raimon City is said to have much excitement when it comes to battles.
 ◇An overflowing Basketball Court and a lively glowing Tennis Court to boot.
 ◇The Battle Subway was made by the railroad creator who was an adamant battle lover.
-◇The Musical Hall is likely to have a mascot Pokemon occasionally.
+◇The Musical  Hall is likely to have a mascot  Pokemon occasionally.
 ◇If you are lucky,you could meet the Stadium's Star players?
 ◇The specialty of this roller coaster is giving its riders a surprise run at that location.
 ◇The Ferris Wheel's height and sparkling views creates heart pounding excitement.
 ◇It is possible to go to Kanawa Town from the Gear Station.
-◇'The Ｎｏ．１ entertainment district for amusement' Welcome to Raimon City
-◇Hodomoe City is a harbor port which lies adjacent to the shore.
-◇The old Sailing Ships ran utilizing the wind and water currents during former times.
+◇'The Ｎｏ．１　entertainment district for amusement' Welcome to Raimon City
+◇Hodomoe City is a harbour port which lies adjacent to the shore.
+◇The old Sailing Ships ran utilising the wind and water currents during former times.
 ◇Developed through freight transaction and fishing industry, Hodomoe Town.
 ◇The Hodomoe Market is crowded with items from around the world.
-◇The roofs are really shiny under the evening's orange sunset.
-◇The Drawbridge that rises to the sky is a picture-perfect scene.
+◇The Roofs are really shiny in the evening orange Sunset.
+◇The Drawbridge that rises to the sky is a picture-perfect scenery.
 ◇The harbor is lined with enormous refrigerated containers.
 ◇There are Pokémon that lives in the Cold Storage too.
-◇Hodomoe City is a harbor port which lies adjacent to the shore.
+◇Hodomoe City is a harbour port which lies adjacent to the shore.
 
 
 
@@ -80,69 +80,69 @@ The date is \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
 
-◇The Cafeteria is over 100 years old.
+◇The Cafetaria is over １００ Years old.
 ◇History mentions that Souryuu City is the oldest city in the world.
 ◇Souryuu City's old technology exceeds any other and is used even now.
 ◇Every year people are born here whom end up being scholars and archaeologists.
 ◇In town you can listen to music, with a history of centuries.
-◇The Cafeteria is over 100 years old.
+◇The Cafetaria is over １００  Years old.
 ◇History mentions that Souryuu City is the oldest city in the world.
 ◇Souryuu City's old technology exceeds any other and is used even now.
 ◇Every year people are born here who end up being scholars and archaeologists.
-◇The city buildings are said to house 100-year-old Pokémon.
-◇Souryuu City has kept up to date on the development of the latest Poké Balls.
+◇The city buildings are said to house １００ year old Pokémon.
+◇Souryuu City has been up to date on developing the latest monster ball.
 ◇The city buildings are built with the best materials.
 ◇Souryuu City is famous for its safety and security.
 ◇A very convenient lifestyle can be achieved here as a network.
-◇The city buildings are said to house 100-year-old Pokémon.
-◇Souryuu City has kept up to date on the development of the latest Poké Balls.
+◇The city buildings are said to house １００ year old Pokémon.
+◇Souryuu City has been up to date on developing the latest monster ball.
 ◇The city buildings are built with the best materials.
 ◇Souryuu City is famous for its safety and security.
 ◇As Kagome townspeople don't rely on time,they don't use clocks in their homes.
 ◇The Kagome townspeople will finish their day jobs as the Sun sets.
 ◇The whole town can be viewed from the top of an enormous bridge.
-◇A mysterious Pokémon has been rumored to appear in the forest visible from town.
+◇A mysterious Pokémon has been rumoured to appear in the forest visible from town.
 ◇All roads and buildings of Kagome Town are made of stone.
 ◇Residents of Kagome Town are all active during the day.
-◇On sunny days, many people are out in the Sun for clearing their mind and body.
+◇On sunny days, many people are out in the Sun for clearing their  mind and body.
 ◇As Kagome townspeople don't rely on time, they don't use clocks in their homes.
 ◇The Kagome townspeople will finish their day jobs as the Sun sets.
-◇Footprints left on the beach sand remain clearly visible.
-◇Sazanami Town possesses a Villa that everyone's been longing for.
+◇The Footprints left on the beach sand remain clearly visible.
+◇Sazanami Town posses a Villa that everyone's been longing for.
 ◇The beautiful sound of the waves are said to be Sazanami Town's greatest treasure.
 ◇In Summer, tourists come to swim in the clear sea.
 ◇The huge cliffs around Sazanami Town has made it very prominent.
-◇The sea and its waves are very calm, so houses are built very close to it.
-◇In Sazanami Town, water sports are very popular.
+◇The Sea and its waves are very calm, so houses are built very close to it.
+◇In Sazanami Town, water sports are very much popular.
 ◇It is very likely for one to find the underground ruins in the sea near Sazanami Town.
-◇Footprints left on the sand in the beach will remain clearly visible.
-◇'The town where you can feel the Nature's Serenity' White Forest.
-◇The people of this town live constantly in touch with nature.
-◇The townspeople nourish the trees and help the forest to continue to grow.
-◇Many breeders have gotten together here and their numbers continue to rise.
-◇Here Pokémon that are usually not found anywhere else can be seen.
-◇Many unusual Pokémon and lost items can be found here.
+◇The Footprints left on the sand in the beach will remain clearly visible.
+◇'The town where you can feel the nature's Serenity' White Forest.
+◇The people of this town lives constantly in touch with nature.
+◇The townspeople nourishes the trees and the forest continues to grow.
+◇Many breeders have got together here and their numbers continue to rise.
+◇Here Pokémon that are usually not seen anywhere else can be seen.
+◇Many unusual Pokémon and  lost items can be found here.
 ◇Many people come and reside here and they continue to change.
-◇'The town where you can feel the Nature's Serenity' White Forest.
-◇The people of this town live constantly in touch with nature.
+◇'The town where you can feel the nature's Serenity' White Forest.
+◇The people of this town lives constantly in touch with nature.
 ◇Black City is a city filled with buildings that are arranged in a line.
-◇Most of the people here aim toward the advancement of this city.
+◇Most of the people here aims toward the advancement of this city.
 ◇Black City is developing everyday as more and more people gather here.
-◇Most of the Pokémon trainers have a very strong competitive consciousness.
+◇Most of the Pokémon trainers have a very high competition consciousness.
 ◇Plans to make the large market in the city more advanced are in effect.
-◇People get together and cause changes to item circulation.
+◇People get together and causes changes to item circulation.
 ◇Population of this city continues to get more diverse and ethnic.
 ◇Black City is a city filled with buildings that are arranged in line.
-◇Most of the people here aim toward the advancement of this city.
-◇The Ancient Castle Ruins are very interesting and attract many tourists and travelers.
-◇Please make careful preparations before crossing the Resort Desert.
-◇Please be prepared for the sandstorm before crossing the Resort Desert.
+◇Most of the people here aims toward the advancement of this city.
+◇The Ancient Castle Ruins are very interesting and attract many tourists and travellers.
+◇Please make careful preparations while crossing the Resort Desert.
+◇Please pay attention to the Sand Storm while crossing the Resort Desert.
 ◇Currently, the time taken to build the Ancient Castle Ruins is being investigated.
-◇'Why would a castle city of ancient times fall into ruins?' A Mystery.
-◇Quicksand is present inside the Ancient Castle Ruins.
-◇The Ancient Castle Ruins are very interesting and attract many tourists and travelers.
-◇Please make careful preparations before crossing the Resort Desert.
-◇This storm may put you off-route.
+◇'Why would a castle city of ancient times would fall into ruins?' A Mystery.
+◇Quicksand is present inside the Ancient Castle Ruins
+◇The Ancient Castle Ruins are very interesting and attract many tourists and travellers.
+◇Please make careful preparations while crossing the Resort Desert.
+◇This storm will wipe you off-route.
 
 
 
@@ -179,33 +179,33 @@ The date is \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
 
-Clear
-Sunny
-Snow
-Sandstorm
-Rainy
-Snowstorm
-Hail
-Fog
-Outbreak of the extremely rare Diamond Dust!!
-Outbreak of an extremely powerful thunderstorm!!
-Outbreak of an extremely harsh storm!!
+
+Céu Limpo
+Sol
+Neve
+Chuvoso
+Chuvoso
+Tempestade de Areia
+Granizo
+Nevoeiro
+O raro Diamond Dust está localizado!
+Há uma tempestade de areia!
+Há uma tempestade de areia!
 \xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
-\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001
-\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002
-\xf000Ā\x0001\x0000 \xf000Ā\x0001\x0001 \xf000Ā\x0001\x0002 \xf000Ā\x0001\x0003
-◆Pokémon are swarming on \xf000ą\x0001\x0000!
+\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001
+\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002
+\xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001　　\xf000Ā\x0001\x0002　　\xf000Ā\x0001\x0003
+◆\xf000ą\x0001\x0000um enxame de Pokémon！！
 
 
 
 
 
 
-
-◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000!
-◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000 and \xf000ā\x0001\x0001!
-◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, and \xf000ā\x0001\x0002!
-◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, and \xf000ā\x0001\x0003!
-◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, and \xf000ā\x0001\x0004!
-◆Congratulations, Hall-of-Famer! Trainer \xf000Ā\x0001\x0006 was victorious with \xf000ā\x0001\x0000, \xf000ā\x0001\x0001, \xf000ā\x0001\x0002, \xf000ā\x0001\x0003, \xf000ā\x0001\x0004, and \xf000ā\x0001\x0005!
+◆Hall of Fame　Congratulations！　Trainer　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000acheived a great victory！
+◆Hall of Fame　Congratulations！　Trainer　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001acheived a great victory！
+◆Hall of Fame　Congratulations！　Trainer　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002acheived a great victory！
+◆Hall of Fame　Congratulations！　Trainer　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003acheived a great victory！
+◆Hall of Fame　Congratulations！　Trainer　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003　\xf000ā\x0001\x0004acheived a great victory！
+◆Hall of Fame　Congratulations！　Trainer　\xf000Ā\x0001\x0006は　\xf000ā\x0001\x0000　\xf000ā\x0001\x0001　\xf000ā\x0001\x0002　\xf000ā\x0001\x0003　\xf000ā\x0001\x0004　\xf000ā\x0001\x0005acheived a great victory！
