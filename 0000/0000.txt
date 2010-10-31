@@ -133,14 +133,14 @@ Fantasma
 Dragão
 Escuro
 Aço
-0 - 10 hours
-10 - 20 hours
-20 - 30 hours
-30 - 40 hours
-40 - 50 hours
-50 - 60 hours
-60 - 70 hours
-70 - 80 hours
-80 - 90 hours
-90 - 100 hours
-100  hours
+0 - 10 horas
+10 - 20 horas
+20 - 30 horas
+30 - 40 horas
+40 - 50 horas
+50 - 60 horas
+60 - 70 horas
+70 - 80 horas
+80 - 90 horas
+90 - 100 horas
+100  horas
