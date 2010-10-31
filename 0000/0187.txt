@@ -14,8 +14,8 @@ Batalhas Desconectadas:
 Link Trades:
 No. de Pokémon estreados:
 No. de Combates:
-すれちがった　にんずう
-フィーリングチェック
+Chance-Upon Count:	
+Feeling Checks:
 Cargas utilizadas:
 Participações nos Shows:
 PokéShifter Maior Pontuação:
