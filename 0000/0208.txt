@@ -1,79 +1,79 @@
-Welcome to the GTS!
+Bem-vindo ao GTS!
 あずけていた ポケモンの\xfffeこうかんが せいりつ しました！
-\xf000Ă\x0001\x0000 was not traded.\xf000븁\x0000
-\xf000Ă\x0001\x0000 appears to have\xfffefled...\xf000븁\x0000
-Are you seeking or offering a Pokémon?
-Do what with this \xf000Ă\x0001\x0000?
-Will you take this \xf000Ă\x0001\x0000?
-Is it OK to disconnect from\xfffeNintendo Wi-Fi Connection?
-What kind of Pokémon are you seeking?
-Please choose the Pokémon you want.
-Please choose its gender.
-Please choose the level.
-Please choose the Pokémon you want!
-Searching for the Pokémon you want...
-None were found!
-Stop searching?
-Trade Pokémon with the Trainer?
-Choose the Pokémon you are trading.
-Do what with this \xf000Ă\x0001\x0000?
-You seem to have already traded it...
+\xf000Ă\x0001\x0000 não foi trocado.\xf000븁\x0000
+\xf000Ă\x0001\x0000 parece ter\xfffefugido...\xf000븁\x0000
+Tú estás á procurar ou á oferecer um Pokémon?
+Fazer o que com isso \xf000Ă\x0001\x0000?
+Tú vai levar este \xf000Ă\x0001\x0000?
+É OK para desconectar do\xfffeNintendo Wi-Fi Connection?
+Que tipo de Pokémon tú procuras?
+Por favor, escolhe o Pokémon que queres.
+Por favor, escolha seu gênero.
+Por favor, escolha o nível.
+Por favor, escolha o Pokémon que queres!
+Procurando o Pokémon que tú queres ...
+Nada foi encontrado!
+Parar de procurar?
+Trocar Pokemon com o Treinador?
+Escolha o Pokémon que tú queres trocar.
+Fazer o que com este \xf000Ă\x0001\x0000?
+Tu pareces ter trocado...
 していのポケモンと ちがいますよ！
-Choose the Pokémon you want to offer.
-Offer \xf000Ă\x0001\x0000?
-Are these conditions OK?
-Checking GTS's status...
-The Ball Capsule will be detached.\xfffeIs that OK?
-This Pokémon is not a legitimate\xfffePokémon. (Error: 132??)\xf000븁\x0000
-This Pokémon is not a legitimate\xfffePokémon. (Error: 13266)\xf000븁\x0000
-This Pokémon is not a legitimate\xfffePokémon. (Error: 13267)\xf000븁\x0000
-This Pokémon is not a legitimate\xfffePokémon. (Error: 13268)\xf000븁\x0000
-This Pokémon is not a legitimate\xfffePokémon. (Error: 13269)\xf000븁\x0000
-This Pokémon is not a legitimate\xfffePokémon. (Error: 13270)\xf000븁\x0000
-This Pokémon is not a legitimate\xfffePokémon. (Error: 13271)\xf000븁\x0000
-An Egg may not be offered\xfffefor trade!\xf000븁\x0000
-Your party is full.\xfffeYou can't receive a Pokémon!\xf000븁\x0000
-Your Storage boxes are full.\xfffeYou can't receive a Pokémon!\xf000븁\x0000
-A trade partner has been found!
+Escolha o Pokémon que tú queres oferecer.
+Oferecer \xf000Ă\x0001\x0000?
+Estarão estas condições OK?
+A verificar status do GTS ...
+A Ball Capsule será destacada.\xfffeEstá bem?
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 132??)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13266)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13267)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13268)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13269)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13270)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13271)\xf000븁\x0000
+Um ovo não podem ser oferecido\xfffepara troca!\xf000븁\x0000
+A tua equipa está completa.\xfffeNão podes receber um Pokémon!\xf000븁\x0000
+Suas caixas de armazenamento estão cheias.\xfffeTú não pode receber um Pokémon!\xf000븁\x0000
+Foi encontrado um parceiro para trocar!
 Nintendo Wi-Fi Connection
-Touch "Select" to set trade partner.
-Please change your conditions.
-Please wait a while.
-Your party is full.\xfffeYou can't receive that Pokémon.\xf000븁\x0000
-There is no room in your party.
-That Pokémon has a special Ribbon.\xfffeIt can't be offered for a trade.\xf000븁\x0000
-GTS check failed.
+Toque em "SELECT" para escolher parceiro de troca.
+Por favor, altere as suas condições.
+Por favor, aguarde um pouco.
+Sua equipe está completa.\xfffeNão pode receber um Pokémon.\xf000븁\x0000
+Não há espaço em sua equipa.
+Pokémon que tem uma fita especial.\xfffeNão pode ser oferecido para troca.\xf000븁\x0000
+GTS verificação falhou.
 \xf000봂\x0000Global Trade System
-\xf000봂\x0000Summary
-\xf000봂\x0000Deposit Pokémon
-\xf000봂\x0000Seek Pokémon
-\xf000봂\x0000Exit
+\xf000봂\x0000Sumario
+\xf000봂\x0000Depositar Pokemon
+\xf000봂\x0000Procurar Pokemon
+\xf000봂\x0000Sair
 \xf000Ă\x0001\x0000
 \xf000ā\x0001\x0001
 Lv. \xf000Ȃ\x0001\x0002
 Item
 \xf000ĉ\x0001\x0003
-Offerer
+Oferecer
 \xf000Ā\x0001\x0004
-Desired Pokémon
+Pokémon desejado
 \xf000ā\x0001\x0005
 Lv. \xf000Ȃ\x0001\x0006いじょう
-No Lv. Preference
-Take back
-Leave as is
-Yes
-No
+No Lv. Preferencia
+Levar de volta
+Deixar como está
+Sim
+Não
 Pokémon
-Take back
+Levar de volta
 Pokémon
 \xf000ā\x0001\x0000
-Gender
+Genero
 \xf000Ĩ\x0001\x0001
 Level
 \xf000ĩ\x0001\x0002
-Search
+Pesquisar
 \xf000봂\x0000Back
-Select
+Selecionar
 \xf000Ă\x0001\x0000
 \xf000ā\x0001\x0001
 Lv. \xf000Ȃ\x0001\x0002
@@ -81,39 +81,39 @@ Item
 \xf000ĉ\x0001\x0003
 あずけたひと
 \xf000Ā\x0001\x0004
-Wanted
+Procurado
 \xf000ā\x0001\x0005
 \xf000Ĩ\x0001\x0006
 \xf000ĩ\x0001\x0007
-Location
+Localização
 \xf000Ĥ\x0001\x0008
 \xf000ĥ\x0001\x0009
-In Party
-Cancel
+Na equipa
+Cancelar
 \xf000ċ\x0001\x0000
-Summary
-Exchange
-End
-Yes
-No
-Holding
-Name
-Entrust Pokémon
+Sumario
+Troca
+Fim
+Sim
+Não
+A segurar
+Nome
+Confiar Pokemon
 \xf000ċ\x0001\x0000
-In Party
-Cancel
-Summary
-Trade
-Cancel
- Wanted
+Na equipa
+Cancelar
+Sumario
+Troca
+Cancelar
+ Procurar
 \xf000ā\x0001\x0000
 \xf000ĩ\x0001\x0001
- Offered
+ Oferecer
 \xf000Ă\x0001\x0002
 Lv.
 \xf000Ȃ\x0001\x0003
 Lv. \xf000Ȃ\x0001\x0003
-Cancel
+Cancelar
 ア
 カ
 サ
@@ -124,23 +124,23 @@ Cancel
 ヤ
 ラ
 ワ
-Either
+Quer
 ♂
 ♀
-\xf000봂\x0000Back
-Any
-Lv. 9 and under
-Lv. 10 and up
-Lv. 20 and up
-Lv. 30 and up
-Lv. 40 and up
-Lv. 50 and up
-Lv. 60 and up
-Lv. 70 and up
-Lv. 80 and up
-Lv. 90 and up
+\xf000봂\x0000Voltar
+Qualquer
+Lv. 9 ou mais
+Lv. 10 ou mais
+Lv. 20 ou mais
+Lv. 30 ou mais
+Lv. 40 ou mais
+Lv. 50 ou mais
+Lv. 60 ou mais
+Lv. 70 ou mais
+Lv. 80 ou mais
+Lv. 90 ou mais
 Level 100
-\xf000봂\x0000Return
+\xf000봂\x0000Voltar
 ポケモンを ＧＴＳに\xfffeおくりだして います
 ＧＴＳに ポケモンが\xfffeとうろく されました！\xf000븁\x0000
 ポケモンを ＧＴＳから\xfffeうけとっています
@@ -152,50 +152,50 @@ Level 100
 ただいま ＧＴＳと つうしんを\xfffeおこなっています……
 ＧＴＳは\xfffeげんざい メンテナンスちゅう です\xf000븁\x0000\xfffeしばらく おまちいただいたのち \xfffeごりようください\xf000븁\x0000
 ＧＴＳは\xfffeげんざい こみあって おります\xf000븁\x0000\xfffeしばらく おまちいただいたのち\xfffeごりようください（１３２６１）\xf000븁\x0000
-Communication error...
-Communication error...
-Communication error...\xfffeError code: 13272\xf000븁\x0000
-Communication error...\xfffeError code: 13275\xf000븁\x0000
-Communication error...\xfffeError code: 13263\xf000븁\x0000
-Communication error...\xfffeError code: 13265\xf000븁\x0000
-Communication error...\xfffeError code: 13264\xf000븁\x0000
-Communication error...\xfffeError code: 13273\xf000븁\x0000
-Communication error...\xfffeError code: 13281\xf000븁\x0000
-Communication error...\xfffeError code: 13282\xf000븁\x0000
-Unable to connect to the GTS.\xfffeReturning to the reception counter.\xf000븁\x0000
-Unable to connect to the GTS.\xfffeReturning to the reception counter.\xf000븁\x0000
-You were disconnected from the GTS.\xfffeReturning to the reception counter.\xf000븁\x0000
+Erro na comunicação...
+Erro na comunicação...
+Erro na comunicação...\xfffeErro código: 13272\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13275\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13263\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13265\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13264\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13273\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13281\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13282\xf000븁\x0000
+Não é possível conectar o GTS.\xfffeVoltando ao balcão da recepção.\xf000븁\x0000
+Não é possível conectar o GTS.\xfffeVoltando ao balcão da recepção.\xf000븁\x0000
+Fostes desconectado do GTS.\xfffeVoltando ao balcão da recepção.\xf000븁\x0000
 つうしんが せつだん されました
-Returning to the reception counter.
-Any
-Lv. 1 to 10
-Lv. 11 to 20
-Lv. 21 to 30
-Lv. 31 to 40
-Lv. 41 to 50
-Lv. 51 to 60
-Lv. 61 to 70
-Lv. 71 to 80
-Lv. 81 to 90
-Lv. 91 to 100
-\xf000봂\x0000Back
-Location
+Voltando ao balcão da recepção.
+Qualquer
+Lv. 1 ao 10
+Lv. 11 ao 20
+Lv. 21 ao 30
+Lv. 31 ao 40
+Lv. 41 ao 50
+Lv. 51 ao 60
+Lv. 61 ao 70
+Lv. 71 ao 80
+Lv. 81 ao 90
+Lv. 91 ao 100
+\xf000봂\x0000Voltar
+Localização
 \xf000Ĥ\x0001\x0000
-Any
-Any
+Qualquer
+Qualquer
 \xf000봂\x0000Back
-Please choose a Pokémon location.
-This Pokémon cannot be traded in this\xfffeForme!\xf000븁\x0000
-Spiky-eared PICHU cannot be offered\xfffein trade. \xf000ȇ\x0000
-This Pokémon cannot be traded while\xfffeholding that item!\xf000븁\x0000
+Por favor, escolha um local Pokémon.
+Este Pokemon não pode ser trocado na\xfffeForme!\xf000븁\x0000
+Spiky-eared PICHU não pode ser oferecido\xfffena troca. \xf000ȇ\x0000
+Este Pokemon não pode ser trocado enquanto\xfffesegurar este item!\xf000븁\x0000
 O.T.
-There was an error while attempting to\xfffesend an authentication E-Mail.\xf000븁\x0000
-There was a communication error.\xf000븁\x0000
-The data was corrupted.\xfffeIt could not be sent.\xf000븁\x0000
-The server is undergoing maintenance.\xfffePlease connect again later.\xf000븁\x0000
-There was a E-Mail\xfffeauthentication error.\xf000븁\x0000
-Disconnecting from Nintendo Wi-Fi\xfffeConnection... Please wait a moment.
-You have disconnected from Nintendo\xfffeWi-Fi Connection.
+Ocorreu um erro durante a tentativa de\xfffeenviar o email de autentificação.\xf000븁\x0000
+Houve um erro de comunicação.\xf000븁\x0000
+Os dados foram corrompidos.\xfffeNão poderia ser enviado.\xf000븁\x0000
+O servidor está em manutenção.\xfffePor favor, tente mais tarde.\xf000븁\x0000
+Houve um erro de\xfffeautenticação de e-mail.\xf000븁\x0000
+Desligar da Nintendo Wi-Fi\xfffeConecção ... Aguarde um momento.
+Tú fostes desconectado da Nintendo\xfffeWi-Fi Connection.
 ア
 イ
 ウ
@@ -241,11 +241,11 @@ You have disconnected from Nintendo\xfffeWi-Fi Connection.
 ロ
 ワ
  
-GTS\xfffeMain menu
-GTS\xfffeTrade Pokémon
-GTS\xfffeSummary
-GTS\xfffeDeposit Pokémon
-GTS\xfffeSeek Pokémon
-Cancel
+GTS\xfffeMenu Principal
+GTS\xfffeTrocar Pokémon
+GTS\xfffeSumari
+GTS\xfffeDepositar Pokémon
+GTS\xfffeProcurar Pokémon
+Cancelar
 \xf000Ȁ\x0001\x0000
 /
