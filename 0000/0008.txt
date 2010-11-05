@@ -33,11 +33,10 @@ Procurar por Ranking
 Enviar Data	
 Últimos 30	
 Procura Detalhada
-Procurar por Números	
-Procurar por Facilidade
-Procurar por Facilidade
-Procurar por Pokémon
-Procurar por Local
+Procura por Pokémon
+Procura por Facilidade
+Procura por Pokémon
+Procura por Local
 Enviar Foto
 Ver Foto
 Enviar
