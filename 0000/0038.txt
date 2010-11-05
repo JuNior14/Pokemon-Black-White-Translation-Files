@@ -188,8 +188,8 @@ Tempestade de Areia
 Granizo
 Nevoeiro
 O raro Diamond Dust está localizado!
-Há uma tempestade de areia!
-Há uma tempestade de areia!
+Há uma grande trovoada!
+Há uma grande tempestade de areia!
 \xf000ą\x0001\x0000: \xf000Ā\x0001\x0001
 \xf000Ā\x0001\x0000
 \xf000Ā\x0001\x0000　　\xf000Ā\x0001\x0001
