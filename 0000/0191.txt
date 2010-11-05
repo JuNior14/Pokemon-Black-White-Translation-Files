@@ -1,105 +1,105 @@
-Treinador PKMN 
-Treinadora PKMN 
-Jovem
-Moça
-Menino da escola
-Menina da escola
-Jogador de tenis
+Treinador de Pokémons
+Treinadora de Pokémons
+Miúdo
+Miúda
+Miúdo da Escola
+Miúda da Escola
+Tenista
 Futebolista
-Empregado
-Empregada
-Lider de Ginásio
-Lider de Ginásio
-Lider de Ginásio
-Professora de creche
-Estudante da creche
-Estudante da creche
-Gemeas
-Criador Pokemon 
-Criadora Pokemon 
-Lider de Ginásio
-Lider de Ginásio
-Lider de Ginásio
-Lider de Ginásio
-Lider de Ginásio
-Vagabundo Pokemon 
-Vagabunda Pokemon 
+Empregado de mesa
+Empregada de mesa
+Líder do Ginásio
+Líder do Ginásio
+Líder do Ginásio
+Infermeira
+Educador
+Educadora
+Gémeos
+Criador de Pokémons
+Criadora de Pokémons
+Líder do Ginásio
+Líder do Ginásio
+Líder do Ginásio
+Líder do Ginásio
+Líder do Ginásio
+Guarda de Pokémons
+Guarda de Pokémons
 Trabalhador
-Viajante
-Viajante
+Mochileiro
+Mochileira
 Pescador
-Músico
-Dançarino
+Musico
+Breakdancer
 Palhaço
 Artista
 Padeiro
-Psiquico
-Psiquica
-Treinador Pokemon 
-Treinadora Pokemon 
-Team Plasma
-Treinador PKMN 
-Rapaz rico
-Rapariga rico
+Psíquico
+Psíquica
+Treinador de Pokémons
+Treinadora de Pokémons
+Equipa Plasma
+Treinador de Pokémons
+Rapaz Rico
+Senhora
 Piloto
 Trabalhador
-Jogador de Basquetebol
-Investigador
-Team Plasma
-Mulher de Escritório
-Treinador de Elite
-Treinadora de Elite
+Basketbolista
+Pesquisador
+Equipa Plasma
+Secretária
+Treinador Campeão
+Treinadora Campeã
 Rei do Karaté
-Investigador
-Jogador de Futebol
-Lider de Ginásio
-Lider de Ginásio
-Lider de Ginásio
-Cabeças de Pele
-Membro de Limpeza
-Poké Maniaco
-Poké Maniaca
-Doutor
-Infermeira
-Equipa Dupla
-Rapariga de Batalha
-Senhora com Guarda-sol
-Homem de Negócios
-Mulher de Negócios
-Fã Pokémon
-Fã Pokémon
-Treinador Veterano
-Treinadora Veterana
+Pesquisador
+Futebolista
+Líder do Ginásio
+Líder do Ginásio
+Líder do Ginásio
+Fortão
+Zelador
+Pokéfã
+Pokéfã
+Médico
+Enfermeira
 Gangster
-Jogador de Basebol
-Montanhista
-Senhora
-Homem
-Team Plasma
-Elite 4
-Elite 4
-Elite 4
-Elite 4
-Team Plasma
+Rapariga Batalhadora
+Senhora Guarda-Sol
+Empresário
+Empresário
+Clube de Fãs
+Clube de Fãs
+Veterano
+Veterana
+Biciclista
+Basebolista
+Excursionista
+Socializadora
+Cavalheiro
+Equipa Plasma
+Elite Quatro
+Elite Quatro
+Elite Quatro
+Elite Quatro
+Equipa Plasma
 Trabalhador Ferroviário
 Nadador
-Senhora em Bikini
-Policial
-Criada
+Nadadora
+Policia
+Empregada
 Mestre do Metro
 Campeão
-Biciclista
-Biciclista
-Amante de Bicileta
+Ciclista
+Ciclista
+Fã de Ciclismo
+Burguês
 Burguesa
-Burguesa
-Burguesa
+Burguês
 Burguesa
 Game Freak
+Burguês
 Burguesa
-Burguesa
-Treinador PKMN 
-Team Plasma
+Treinador de Pokémons
+Equipa Plasma
 Mestre do Metro
-Treinador PKMN 
-Treinadora PKMN 
+Treinador de Pokémons
+Treinadora de Pokémons
