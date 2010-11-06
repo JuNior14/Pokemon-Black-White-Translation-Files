@@ -16,10 +16,10 @@ Pocket Monsters White\xfffePokéShifter Program
 Transfer Machine ID:\xf000Ȅ\x0001\x0000
 Pocket Monsters Black\xfffeTransfer Machine Program
 Pocket Monsters White\xfffeTransfer Machine Program
-Yes
-No
-もう１つのＤＳに Pocket Monsters\xfffeDiamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffeいずれかの ソフトを セットして\xfffeでんげんを いれた あとに\xfffeしたがめんを さんこうに して\xfffe『DS Download Play』から\xfffe『Transfer Machine ID:\xf000Ȅ\x0001\x0000』を\xfffeえらんでください\xfffeB Button: Cancel
-Transfer Machine きどうちゅう！\xfffeしばらく おまちください
+Sim
+Não
+もう１つのＤＳに Pocket Monsters\xfffeDiamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffeいずれかの ソフトを セットして\xfffeでんげんを いれた あとに\xfffeしたがめんを さんこうに して\xfffe『DS Download Play』から\xfffe『Transfer Machine ID:\xf000Ȅ\x0001\x0000』を\xfffeえらんでください\xfffeBotão B: Cancelar
+Transfer Machine きどうちゅう！\xfffePor favor, aguarde um momento
 えいがのポケモンが \xf000Ȃ\x0001\x0000ひき います\xfffe\xf000Ȃ\x0001\x0000ひき すべてを\xf000븁\x0000ポケットモンスターブラックに\xfffeつれてきますが よろしいですか？
 えいがのポケモンが \xf000Ȃ\x0001\x0000ひき います\xfffe\xf000Ȃ\x0001\x0000ひき すべてを\xf000븁\x0000ポケットモンスターホワイトに\xfffeつれてきますが よろしいですか？
 ボックスに あきが ありません！\xfffeボックスを せいりしてください！\xf000븁\x0000
