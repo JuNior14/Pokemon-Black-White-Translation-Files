@@ -1,10 +1,10 @@
 ＧＡＭＥ ＳＹＮＣ
 Ｗｉ－Ｆｉせってい
 ゲームシンクで あそぶための \xfffeデータをつくっても よろしいですか？
-Saving... \xfffePlease Wait
-Yes
-No
-レポートに かきこんでいます\xfffeしばらく おまちください
+A guardar... \xfffePor favor, Aguarde
+Sim
+Não
+レポートに かきこんでいます\xfffePor favor, aguarde um momento
 おてもとの パソコンから\xfffeポケモングローバルリンクの\xfffeホームページに アクセスして\xfffeうえの ゲームシンクＩＤコードを\xfffeにゅうりょくすると ゲームシンクの\xfffeせっていが おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
 ゲームシンクＩＤコードを\xfffeはっこうしました\xfffe\xfffeうえのゲームシンクＩＤコード は\xfffeゲームかいしじの タイトルメニュー\xfffeゲームシンクせっていから\xfffeみなおすことが できます\xf000븁\x0000
 おてもとのパソコンから\xfffeポケモングローバルリンクの\xfffeホームページに アクセスして\xfffeうえのゲームシンクＩＤコードを\xfffeにゅうりょくすると ゲームシンクの\xfffeせっていが おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
