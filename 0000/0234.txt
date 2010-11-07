@@ -174,8 +174,8 @@ Cancelar
 Cancelar
 Voltar á Lista
 Queres dar alcunha ao\xfffe\xf000ā\x0001\x0000?
-\xf000Ă\x0001\x0000 foi enviado para\xfffe\xf000ċ\x0001\x0001 o PC!
-\xf000Ă\x0001\x0000 foi enviado para\xfffe\xf000ċ\x0001\x0001 o PC da Shorea!
+\xf000Ă\x0001\x0000 foi enviado para\xfffe\xf000ċ\x0001\x0001 no PC!
+\xf000Ă\x0001\x0000 foi enviado para\xfffe\xf000ċ\x0001\x0001 no PC da Shorea!
 Informação
 Mapa
 Voz
