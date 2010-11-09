@@ -1,10 +1,10 @@
-Queres guardar \xfffeesta batalha no teu Vs Recorder?
+Queres guardar\xfffeesta batalha no teu Vs Recorder?
 Sim
 Não
-Os dados vão se perder para sempre\xfffetens a certeza?
+Os dados vão se perder para sempre,\xfffetens a certeza?
 Sim
 Não
-Vais substituir o teu Video de Combate anterior\xfffeTens a certeza?
+Vais substituir o teu Video de Combate anterior.\xfffeTens a certeza?
 Sim
 Não
 O teu video está a ser guardado.\xfffePor favor Aguarde!
