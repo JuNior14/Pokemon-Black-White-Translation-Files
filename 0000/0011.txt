@@ -50,11 +50,11 @@ Actualmente está a tranferir\xfffeum presente estranho
 \xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　Ｐ Ｐが\xfffeEstá sem pp
 \xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\x fffeEstá em estado critico
 \xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\x fffeEstá com uma condição anormal
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\x fffeEstá usando
-\xf000Ā\x0001\x0000さんが\xfffe\xf000ć\x0001\x0001を\x fffeEstá usando
+\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\x fffeEstá a usar
+\xf000Ā\x0001\x0000さんが\xfffe\xf000ć\x0001\x0001を\x fffeEstá a usar
 \xf000Ā\x0001\x0000さんは\xfffeRecebeste um ovo
 \xf000Ā\x0001\x0000さんの　タマゴから\xfffe\xf000ā\x0001\x0 001Incubando o ovo
-\xf000Ā\x0001\x0000さんは\xfffecomprando
+\xf000Ā\x0001\x0000さんは\xfffea comprar
 \xf000Ā\x0001\x0000さんは\xfffeactualmente está\xfffepreparado para lutar debaixo do chão
 \xf000Ā\x0001\x0000さんは\xfffeactualmente foste \xfffe\xf000Ȁ\x0001\x0001-vezes debaixo do chão
 \xf000Ā\x0001\x0000さんは\xfffeactualmente\xfffeReceb este um trofeo "underground".
