@@ -1,28 +1,28 @@
-﻿Choose a word!
-Think up a pre-battle intro!
-Think up a cool winning line!
-Think up a losing excuse!
-What's trendy?
-Think up a Union greeting!
-Is this okay?
-Put in a word!
-Stop entering?
-Yes
-No
-Group\xfffeMode
-ABC\xfffeMode
-Use
-Confirm
-Quit
-Edit
-Add New Message
-Choose
-Delete
-Quit
+Escolhe uma palavra!
+Pensa em uma introdução pré-batalha!
+Pensa numa forma fixe de ganhar!
+Pensa em uma desculpa de perder!
+O que é moda?
+Pensa numa saudação de União!
+Isto está correcto?
+Coloca em uma palavra!
+Parar de entrar?
+Sim
+Não
+Modo\xfffeGrupo
+Modo\xfffeABC
+Usar
+Confirmar
+Sair
+Editar
+Adicionar Nova Mensagem
+Escolher
+Apagar
+Sair
 メッセージとうろくリスト：\xfffeつかいたい メッセージを\xfffeえらんで ください！
 メッセージの しゅるいや\xfffeことばをいれる ばしょを\xfffeえらんで ください！
-Choose where to\xfffeplace the word!
-Group Mode:\xfffeChoose words\xfffefrom the category!
-ABC Mode:\xfffeChoose letters to\xfffenarrow down the words!
-ABC Mode:\xfffeChoose words from\xfffethe narrowed-down list!
-Group Mode:\xfffeChoose the\xfffeappropriate group!
+Escolhe onde\xfffecolocar a palavra!
+Modo Grupo:\xfffeEscolhe palavras\xfffeda categoria!
+Modo ABC:\xfffeEscolhe letras para\xfffeformar palavras!
+Modo ABC:\xfffeEscolhe palavras da\xfffelista a baixo!
+Modo Grupo:\xfffeEscolhe o\xfffegrupo apropriado!
