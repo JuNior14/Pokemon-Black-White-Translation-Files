@@ -87,9 +87,9 @@ Sair
 Trocar
 Sair
 Sair
-Trocar de\xfffe Caixa
-Trocar\xfffe Wallpaper
-Depositar\xfffe Pokemon
+Trocar de\xfffeCaixa
+Trocar\xfffeWallpaper
+Depositar\xfffePokemon
 Para a mochila
 Esperar
 Mover
