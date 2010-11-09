@@ -51,5 +51,5 @@ Não podes escolher um Ovo!
 Pôr \xf000Ă\x0001\x0000 a dormir?
 Este Pokemon não\xfffeparece ter sono.
 Continuar operações na Caixa?
-A Caixa de Batalha foi trancada \xfffe Os Pokemon não podem ser removidos
-A Caixa de Batalha foi trancada \xfffe Item equipado não pode ser trocado
+A Caixa de Batalha foi trancada\xfffeOs Pokemon não podem ser removidos
+A Caixa de Batalha foi trancada\xfffeItem equipado não pode ser trocado
