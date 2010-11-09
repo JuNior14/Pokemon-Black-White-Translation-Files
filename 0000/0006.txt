@@ -8,7 +8,7 @@ Fugir
 Atrás
 Fechar
 Mostrar
-Dummy(nao sei q contexto qerem)
+Boneco
 Cancelar
 Mochila
 Mail
