@@ -1,4 +1,4 @@
-﻿Hello
+Olá
 Hello
 Bonjour
 Ciao
@@ -7,42 +7,42 @@ Hola
 안녕하세요
 Konnichiwa
 ……
-Thanks
-Okay
-No
-Yes
-Go!
-Let's Go
-Going
-Welcome
+Obrigado
+Ok
+Não
+Sim
+Vamos!
+Vamos lá
+A ir
+Bem-vindo!
 Yo!
-Congrats!
-Please
-Sorry
-Very Sorry
-Um, Sorry
-Goodbye
-Thank You
-Spectacle
+Parabéns!
+Por favor
+Desculpa
+Lamento Muito
+Hum, Desculpa
+Tchau
+Obrigado
+Espectáculo
 Rude
-Brazen
-Smell Ya
-Excuse Me
-Well Then
-Here
-Thanks
-What
+Descarado
+Cheiro-te
+Com Licença
+Bem, então
+Aqui
+Obrigado
+Que
 Nope
 Yep
-Yes
-Yes, Yes
-Bye-Bye
-Hello
-See Ya
-Hello?
-Hi
+Sim
+Sim, sim
+Tchau-Tchau
+Olá
+Até logo
+Oláá?
+Hey
 Ugh
 Yahoo
 Yo
-Welcome
-Regards
+Bem-vindo
+Atenciosamente
