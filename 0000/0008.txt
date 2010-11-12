@@ -35,6 +35,7 @@ Enviar Data
 Procura Detalhada
 Procurar por Números	
 Procurar por Facilidade
+Procurar por Pokémon
 Procurar por Facilidade
 Procurar por Pokémon
 Procurar por Local
