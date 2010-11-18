@@ -3,7 +3,7 @@ Pokédex
 Pokémon
 Mochila
 Treinador 
-Gravar
+Guardar
 Opções
 　
 Chat
