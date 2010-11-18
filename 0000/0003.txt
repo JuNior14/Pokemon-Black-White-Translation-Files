@@ -38,9 +38,9 @@ Coliseu Multi\xfffeIrrestrito
 Coliseu Multi\xfffeApartamento
 Coliseu Multi\xfffeRodagem irrestrita
 Coliseu Multi\xfffeRodagem restrita
-バトルサブウェイ\xfffeÚnico
-バトルサブウェイ\xfffeDuplo
-バトルサブウェイ\xfffeTriplo
+Batalha no Metro\xfffeÚnico
+Batalha no Metro\xfffeDuplo
+Batalha no Metro\xfffeMulti
 Jogos Aleatórios\xfffeÚnico
 Jogos Aleatórios\xfffeDuplo
 Jogos Aleatórios\xfffeTriplo
