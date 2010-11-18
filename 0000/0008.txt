@@ -43,9 +43,9 @@ Enviar Foto
 Ver Foto
 Enviar
 Escolhe um Pokémon
-\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
+\xf000Ā\x0001\x0000　Retratos\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
-しゃしん
+Fotografia
 Enviar Dados da Caixa
 Ver Dados da Caixa
 Favorito
@@ -90,11 +90,11 @@ Top-Ranked Battle Videos\xfffeColosseum
 Top-Ranked Battle Videos\xfffeBattle Frontier
 Procurar por Videos de Batalhas\xfffeいちらん
 
-Onde gostarias de guardar\xfffe\xf000Ā\x0001\x0000os videos das batalhas?
-うわがきほぞん
-Tens a certeza \xf000Ā\x0001\x0000’s Battle\xfffeVideo?
-View Battle Videos
-Send Battle Video
+Onde gostarias de guardar\xfffeos vídeos das batalhas do \xf000Ā\x0001\x0000?
+Substituir
+Queres mesmo apagar o Video de\xfffeBatalha do \xf000Ā\x0001\x0000?
+Vista dos Videos de Batalha
+Enviar Video de Batalha
 Os 30 mais recentes
 Procurar
 Procurar pelo No. do Video
@@ -110,7 +110,7 @@ Não puseste nenhum critério de procura
 A carregar video da batalha...
 Não há correspondência do video da batalha...
 A enviar o video da batalha...
-バトルビデオを　おくりました！
+Video de Batalha enviado!
 \xf000봂\x0000Ver Perfil
 \xf000봂\x0000Fechar Perfil
 Os 30 mais recentes videos de batalha
@@ -128,25 +128,25 @@ Localização\xfffe\xf000Ĥ\x0001\x0000
 \xf000봂\x0000Batalha Dupla
 \xf000봂\x0000Multi Batalha
 \xf000봂\x0000Batalha Wi-Fi
-\xf000봂\x0000バトルサブウェイ
-\xf000봂\x0000スーパーシングルトレイン
-\xf000봂\x0000スーパーダブルトレイン
-\xf000봂\x0000スーパーマルチトレイン
-みたい　せいせきを　えらんPor Favor
+\xf000봂\x0000Batalha no Metro
+\xf000봂\x0000Super Treino Individual
+\xf000봂\x0000Super Treino Duplo
+\xf000봂\x0000Super Treino Triplo
+Escolha o Relatório da Batalha.
 Ganhas:
 Total:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
 \xf000봃\x0001\x0000 Batalhas
-Multi-Treinador
-ともだちとマルチ
+Multi com Treinador
+Multi com Amigo
 Classificar
-げんざいの　きろく
-\xf000봂\x0000Ｗｉ－Ｆｉトレイン　せいせき
+Classificar
+\xf000봂\x0000Relatório do Treino Ｗｉ－Ｆｉ
 げんざい：
 \xf000봂\x0000\xf000Ā\x0001\x0000　の　レーティング
-\xf000봂\x0000レーティングモード　せいせき
-\xf000봂\x0000フリーモード　せいせき
+\xf000봂\x0000レーティングモード せいせき
+\xf000봂\x0000Relatório Gratuito
 \xf000봃\x0001\x0000Ganhaste
 \xf000봃\x0001\x0000Perdeste
 \xf000봃\x0001\x0000Individual:
@@ -161,7 +161,7 @@ Classificar
 \xf000봂\x0000Não
 Sim
 Não
-Ｗｉ－Ｆｉコネクションから\xfffeせつだん　しても　よろしいですか？
+Tens a certeza disto?\xfffeEstás pronto para saíres da Ligação Wi-Fi
 Coliseu\xfffeIndividual, Sem Restrições
 Coliseu\xfffeIndividual, Taça Standard
 Coliseu\xfffeIndividual, Taça Fantasia
