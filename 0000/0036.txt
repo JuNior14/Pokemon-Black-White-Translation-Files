@@ -1,6 +1,6 @@
 Parabéns em entrares no\xfffeSalão da Fama!
 O Fim
 Parabéns por acabares\xfffeo jogo!
-O jogo está a ser gravado.\xfffeNão desligues no butão.
-\xf000Ā\x0001\x0000\xfffejogo gravado!
-O jogo não pode ser gravado.
+A guardar...\xfffeNão desligues a consola.
+\xf000Ā\x0001\x0000\xfffeguadou o jogo!
+O jogo não pode ser guardado.
