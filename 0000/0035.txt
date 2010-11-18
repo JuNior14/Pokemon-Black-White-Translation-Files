@@ -14,6 +14,6 @@ Chat
 トレーナーカードを　せんたくしました
 レポートを　せんたくしました
 せっていを　せんたくしました
-ポケモンレポートに　かきこんでいます
-ポケモンレポートに\xfffeしっかり　かきのこした！
-つうしんちゅうは　レポートを　かけません
+A escrever um relatório Pokémon.
+Relatório Pokémon\xfffeescrito com sucesso!
+Não consegue escrever um relatório durante a comunicação.
