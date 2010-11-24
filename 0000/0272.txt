@@ -15,7 +15,7 @@ Nome
 Tipo
 Cor
 Forma
-Isshu Dex: Modo de Pesquisa
+Unova Dex: Modo de Pesquisa
 National Dex: Modo de Pesquisa
 Reset
 Start
