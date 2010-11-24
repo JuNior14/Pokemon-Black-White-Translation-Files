@@ -10,58 +10,58 @@ A Data é: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 ◇O treinador de Kanoko Town venceu o lider de ginásio  Hachiku em Sekka！
 ◇O treinador de Kanoko Town venceu o lider de ginásio  Iris em Souryuu!！
 ◇O treinador de Kanoko Town venceu o lider de ginásio  Shaga em Souryuu！
-◇'Want your Pokémon to grow stronger? Go to Route 3!' Route 3 Daycare.
-◇'Guided by great Friendship ' Hiun City continues to grow.
-◇'Pokémon tired? Need to battle? Go to the red building!' Pokémon Center.
-◇'Test your skills at the Battle Subway!' Raimon Battle Subway.
-◇'I'm going to be a big star! The Musical Hall!' Raimon Musical Hall.
-◇'Get the items often carried in the inventory' Hodomoe Market.
-◇'Go shopping now, you won't regret it!' the Ishu Departement Store.
-◇'Cool fragrant winds and forest all around' Sanyou City.
-◇There are stairs at the entrance to avoid the snow.
-◇The Sanyou Gym　is a place where both knowledge and battles are tested.
-◇The green lush garden fills your heart with warmth.
-◇Next to town is a house where many trainers come to battle.
-◇Learn about Pokémon at the trainer school.
-◇Sanyou City is surrounded by cool fragrant winds and forest all around.
-◇There are stairs at the entrance to avoid the snow.
-◇The Sanyou Gym　is a place where both knowledge and battles are tested.　
-◇'Noted for its cobbled streets & warehouses' Shippou City.
-◇The museum has been studying the Pokémon's bones.
-◇The Shippou Gym　is a museum where you can explore battle and knowledge.
-◇The warehousehouse studio has lots of talented artists.
-◇Visitors come to watch the warehouse district and Museum.
-◇You are still able to see the railroad remnants.
-◇Be fascinated by the art district where people gather.
-◇The theme of the museum is cultural and natural contrasts.
-◇Many famous artists were born in Shippou City.
-◇Hiun City is famous for its hidden speciality - Hiun Icecream.
-◇Hiun City features piers where many ships sail to different areas.
-◇What tricks and surprises awaits in the Hiun Gym...?
-◇The Central Fountain is said to connect the people everywhere.
-◇The Art Gallery is open to artists all around the world.
-◇This building's population is the highest in all of Hiun City.
-◇The Skyline in Hiun looks totally different during day and night.
-◇Hiun City has its own cuisine and cultural ethnicity mixed with many countries.
-◇The place where the differences of Human and Pokémon are researched.
-◇Raimon City is said to have much excitement when it comes to battles.
-◇An overflowing Basketball Court and a lively glowing Tennis Court to boot.
-◇The Battle Subway was made by the railroad creator who was an adamant battle lover.
-◇The Musical  Hall is likely to have a mascot  Pokemon occasionally.
-◇If you are lucky,you could meet the Stadium's Star players?
-◇The specialty of this roller coaster is giving its riders a surprise run at that location.
-◇The Ferris Wheel's height and sparkling views creates heart pounding excitement.
-◇It is possible to go to Kanawa Town from the Gear Station.
-◇'The Ｎｏ．１　entertainment district for amusement' Welcome to Raimon City
-◇Hodomoe City is a harbour port which lies adjacent to the shore.
-◇The old Sailing Ships ran utilising the wind and water currents during former times.
-◇Developed through freight transaction and fishing industry, Hodomoe Town.
-◇The Hodomoe Market is crowded with items from around the world.
-◇The Roofs are really shiny in the evening orange Sunset.
-◇The Drawbridge that rises to the sky is a picture-perfect scenery.
-◇The harbor is lined with enormous refrigerated containers.
-◇There are Pokémon that lives in the Cold Storage too.
-◇Hodomoe City is a harbour port which lies adjacent to the shore.
+◇"Tender love and care! They'll grow up quick!" Route 3 Daycare
+◇"Discover the future told by your names!" Hiun City Name Rater
+◇"What're they up to? Let's survey!" Hiun City Chance-Upon Survey
+◇"Ride and fight on! This train never stops!" Raimon City Battle Subway
+◇"The stairway to stardom begins here!" Raimon City Musical Hall
+◇"Here come your items, over the wind and waves to you!" Hodomoe Market
+◇"We've got it all at Unova's biggest shopping district!" Shopping Mall R9
+◇From Sanyou City, you can smell the refreshing breeze of the forest!
+◇The stairs leading into the gate prevent snow from piling in.
+◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
+◇Lushgreen Park will warm your heart!
+◇Many trainers visit the daycare next to the city.
+◇Study Pokemon from the basics at the Trainer's School!
+◇From Sanyou City, you can smell the refreshing breeze of the forest!
+◇The stairs leading into the gate prevent snow from piling in.
+◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
+◇Shippo City has stone roads and warehouses!
+◇The museum researches everything from bones to Pokémon!
+◇Shippo Gym is a museum that will test your might and wisdom!
+◇Young artist turning dilapidated warehouse into a studio!
+◇Tourists come just to see the warehouses and the museum!
+◇You can also see the remains of the track that ran through town!
+◇A town where appreciators of the fine arts gather!
+◇The museum is themed around the comparison of civilization and nature!
+◇Many famous artists were born in Shippo City!
+◇The obscure specialty Hiun Ice is becoming majorly popular!
+◇The ships taking off from Hiun City's piers have a variety of destinations!
+◇Even compared against the bustle of Hiun City, the gym is still surprising...?
+◇The central fountain is said to be a place for people to connect!
+◇Artists the world over display galleries in Hiun City!
+◇In terms of buildings, shops, and population, Hiun City is number one in Unova!
+◇The streets of Hiun City are a totally different spectacle at night and in day!
+◇Hiun City is a boiling pot of cultures and foods from various lands!
+◇There's a place investigating the way people happen upon other people!
+◇Raimon City is said to be a source of many excitement-packed battles.
+◇Tempestuous tennis and burning basketball! The lively Little Court!
+◇The Battle Subway is said to be built for enthusiasts of railroads and battling.
+◇Pokémon scouts occasionally make an appearance at the Musical Hall.
+◇Star players gather at the stadium - if you're lucky, maybe you could meet one?!
+◇The famous roller coaster runs through a surprising location...
+◇Glittering landscapes, exciting heights, and heart-pounding encounters... The Dual-Rider Ferris Wheel
+◇Kanawa Town can be reached from the Gear Station.
+◇You gotta see it at least once! Number one in amusement! Welcome to Raimon City!
+◇Hodomoe City is a harbor adjacent to the shore.
+◇Long ago, ships sailed by means of the wind and water.
+◇Hodomoe is a town founded upon freight trading and fishing.
+◇The Market is packed with items from around the world.
+◇The roofs shine brilliantly bright in the evening's orange sunset.
+◇The Charizard Bridge that rises into the sky serves as picturesque scenery.
+◇The harbor is lined with enormous refrigeration containers.
+◇Some Pokémon reside in the Cold Storage.
+◇Hodomoe City is a harbor adjacent to the shore.
 
 
 
@@ -80,70 +80,69 @@ A Data é: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 
 
 
-◇The Cafetaria is over １００ Years old.
-◇History mentions that Souryuu City is the oldest city in the world.
-◇Souryuu City's old technology exceeds any other and is used even now.
-◇Every year people are born here whom end up being scholars and archaeologists.
-◇In town you can listen to music, with a history of centuries.
-◇The Cafetaria is over １００  Years old.
-◇History mentions that Souryuu City is the oldest city in the world.
-◇Souryuu City's old technology exceeds any other and is used even now.
-◇Every year people are born here who end up being scholars and archaeologists.
-◇The city buildings are said to house １００ year old Pokémon.
-◇Souryuu City has been up to date on developing the latest monster ball.
-◇The city buildings are built with the best materials.
-◇Souryuu City is famous for its safety and security.
-◇A very convenient lifestyle can be achieved here as a network.
-◇The city buildings are said to house １００ year old Pokémon.
-◇Souryuu City has been up to date on developing the latest monster ball.
-◇The city buildings are built with the best materials.
-◇Souryuu City is famous for its safety and security.
-◇As Kagome townspeople don't rely on time,they don't use clocks in their homes.
-◇The Kagome townspeople will finish their day jobs as the Sun sets.
-◇The whole town can be viewed from the top of an enormous bridge.
-◇A mysterious Pokémon has been rumoured to appear in the forest visible from town.
-◇All roads and buildings of Kagome Town are made of stone.
-◇Residents of Kagome Town are all active during the day.
-◇On sunny days, many people are out in the Sun for clearing their  mind and body.
-◇As Kagome townspeople don't rely on time, they don't use clocks in their homes.
-◇The Kagome townspeople will finish their day jobs as the Sun sets.
-◇The Footprints left on the beach sand remain clearly visible.
-◇Sazanami Town posses a Villa that everyone's been longing for.
-◇The beautiful sound of the waves are said to be Sazanami Town's greatest treasure.
-◇In Summer, tourists come to swim in the clear sea.
-◇The huge cliffs around Sazanami Town has made it very prominent.
-◇The Sea and its waves are very calm, so houses are built very close to it.
-◇In Sazanami Town, water sports are very much popular.
-◇It is very likely for one to find the underground ruins in the sea near Sazanami Town.
-◇The Footprints left on the sand in the beach will remain clearly visible.
-◇'The town where you can feel the nature's Serenity' White Forest.
-◇The people of this town lives constantly in touch with nature.
-◇The townspeople nourishes the trees and the forest continues to grow.
-◇Many breeders have got together here and their numbers continue to rise.
-◇Here Pokémon that are usually not seen anywhere else can be seen.
-◇Many unusual Pokémon and  lost items can be found here.
-◇Many people come and reside here and they continue to change.
-◇'The town where you can feel the nature's Serenity' White Forest.
-◇The people of this town lives constantly in touch with nature.
-◇Black City is a city filled with buildings that are arranged in a line.
-◇Most of the people here aims toward the advancement of this city.
-◇Black City is developing everyday as more and more people gather here.
-◇Most of the Pokémon trainers have a very high competition consciousness.
-◇Plans to make the large market in the city more advanced are in effect.
-◇People get together and causes changes to item circulation.
-◇Population of this city continues to get more diverse and ethnic.
-◇Black City is a city filled with buildings that are arranged in line.
-◇Most of the people here aims toward the advancement of this city.
-◇The Ancient Castle Ruins are very interesting and attract many tourists and travellers.
-◇Please make careful preparations while crossing the Resort Desert.
-◇Please pay attention to the Sand Storm while crossing the Resort Desert.
-◇Currently, the time taken to build the Ancient Castle Ruins is being investigated.
-◇'Why would a castle city of ancient times would fall into ruins?' A Mystery.
-◇Quicksand is present inside the Ancient Castle Ruins
-◇The Ancient Castle Ruins are very interesting and attract many tourists and travellers.
-◇Please make careful preparations while crossing the Resort Desert.
-◇This storm will wipe you off-route.
-
+◇The town's buildings were created by craftmens to last a hundred years.
+◇Souryuu City is said to be the oldest city in the world.
+◇Souryuu City's ancient technology still serves it today.
+◇Many archeologists are born in the town every year.
+◇In the town, you can hear music with countless centuries of history behind it.
+◇The town's buildings were created by craftmens to last a hundred years.
+◇Souryuu City is said to be the oldest city in the world.
+◇Souryuu City's ancient technology still serves it today.
+◇Many archeologists are born in the town every year.
+◇In the town, you can hear music with countless centuries of history behind it.
+◇Souryuu City develops the cutting-edge in Pokéballs.
+◇The city's buildings are built with the newest and best materials.
+◇Souryuu City is famous for its security-ensured safety.
+◇Networks allow for a very convenient lifestyle.
+◇The city's buildings are said to withstand more than 100 Pokémon without collapsing.
+◇Souryuu City develops the cutting-edge in Pokéballs.
+◇The city's buildings are built with the newest and best materials.
+◇Souryuu City is famous for its security-ensured safety.
+◇Since time is hard to judge in Kagome Town, people don't have clocks in their homes.
+◇The Kagome townspeople leave their jobs with the setting of the sun.
+◇The entire town can be viewed from the top of an enormous bridge.
+◇A mysterious Pokémon is rumoured to appear in the forest near town.
+◇All of Kagome Town's roads and buildings are made of stone.
+◇Since the day is long in Kagome Town, it's often a lively place.
+◇On sunny days, many people go out sunbathing.
+◇Since time is hard to judge in Kagome Town, people don't have clocks in their homes.
+◇The Kagome townspeople leave their jobs with the setting of the sun.
+◇Even the smallest of footprints can be clearly seen in the sand.
+◇Many people long to own a villa in Sazanami Town.
+◇The beautiful sound of the waves is said to be Sazanami Town's greatest treasure.
+◇In summer, tourists come to swim in the clear sea.
+◇The huge cliffs around Sazanami Town have made it very prominent.
+◇Since the waves are always calm, houses are built very close to the sea.
+◇Water sports are extremely popular in Sazanami Town.
+◇Rare ruins are often found in the sea by Sazanami Town.
+◇Even the smallest of footprints can be clearly seen in the sand.
+◇White Forest is a town where nature can be found everywhere.
+◇The townspeople love and always live in touch with nature.
+◇The townspeople nourish the trees, and the forest continues to grow.
+◇Many nature-loving breeders gather in the town.
+◇Thanks to nature's abundance, rare Pokémon can be found here.
+◇Pokémon and lost items in the area are said to be blessings of nature.
+◇As more people want to live in town, the population grows more diverse.
+◇White Forest is a town where nature can be found everywhere.
+◇The townspeople love and always live in touch with nature.
+◇Black City is a cultured city with lined-up buildings.
+◇People aim to make the city the most developed in Unova.
+◇Black City develops daily as more and more people gather.
+◇Many trainers filled with competitive spirit live here.
+◇Plans to create a large market in the city are in progress.
+◇People gather to change circulation and exchange goods.
+◇As more people want to live in town, the population grows more diverse.
+◇Black City is a cultured city with lined-up buildings.
+◇People aim to make the city the most developed in Unova.
+◇The ruins of the Ancient Castle are a major tourist spot.
+◇The desert is large and harsh. Please be sure to make preparations.
+◇Please be wary of the desert-wide sandstorms.
+◇The era in which the ruins were built is currently being investigated.
+◇Why the ancient kingdom perished is still a mystery.
+◇The Ancient Castle still has sinking quicksand.
+◇The ruins of the Ancient Castle are a major tourist spot.
+◇The desert is large and harsh. Please be sure to make preparations.
+◇Please be wary of the desert-wide sandstorms.
 
 
 
