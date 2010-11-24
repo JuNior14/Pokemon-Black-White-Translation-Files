@@ -79,7 +79,7 @@ I feel I am all out\xfffeof white paint...
 This world has white, black,\xfffered, green, blue, yellow...\xf000븀\x0000and countless other colors.\xf000븁\x0000And so, to mix them all\xfffeand bring forth a new color...!\xf000븁\x0000Sha-ZAM!!
 I'm in the mood, the wind is blowing, and\xfffeyou come into sight... it must be fate!\xf000븁\x0000
 Ooh...\xfffeThe headwind blew me over...
-I want to soar around the Isshu region\xfffewith the wind blowing at my back!
+I want to soar around the Unova region\xfffewith the wind blowing at my back!
 There's... something inside this big bag...\xfffeWhat do you think it could be?\xf000븁\x0000
 I may have lost,\xfffebut my bag continues to grow...
 That which nearly overflows from my bag...\xfffeIt's the memories of my journey!\xf000븁\x0000Even invisible things can have\xfffeprofound weight to them!
@@ -120,7 +120,7 @@ More! Let me hear more\xfffefrom your Pokémon!
 There are Pokémon who would\xfffesay such things...?!
 My psychic Pokémon\xfffeseem somehow alarmed...\xf000븁\x0000Is it because we're in a ruin,\xfffeor are you the cause?\xf000븁\x0000
 ...Such power!\xfffeJust what are you?!
-As many long years\xfffepassed over these ruins...\xf000븁\x0000People and Pokémon have\xfffegrown in number around Isshu.
+As many long years\xfffepassed over these ruins...\xf000븁\x0000People and Pokémon have\xfffegrown in number around Unova.
 A mysterious power\xfffeis gathering here...\xf000븁\x0000
 You, too, are full of\xfffethis mysterious power...
 A mystical energy remains\xfffein historical locations...\xf000븁\x0000This I know.\xfffeThe many sorrows and joys...
@@ -328,9 +328,9 @@ The sadness of loss is only momentary!\xf000븁\x0000If I, the trainer, give up,
 Do you have the potential to aim\xfffefor the Pokémon League? Let me see!\xf000븁\x0000
 Aha! Aha aha!\xfffeAha-aha-aha-aha-aha! I see!
 I hear there's a powerful\xfffeChampion at the Pokémon League.\xf000븁\x0000I hope that I, too, will someday be\xfffeable to challenge the Pokémon League!
-I am an Ace Trainer!\xfffeThat said, yes, I'm very strong.\xf000븁\x0000If you were to beat me,\xfffeit would shake all of Isshu!\xf000븁\x0000
+I am an Ace Trainer!\xfffeThat said, yes, I'm very strong.\xf000븁\x0000If you were to beat me,\xfffeit would shake all of Unova!\xf000븁\x0000
 ...The value of my being is\xfffereally starting to shake down!
-Your very existence will soon\xfffemake all of Isshu shake!\xf000븁\x0000Even if I lost, at least I got to\xfffeshow off while fighting you!
+Your very existence will soon\xfffemake all of Unova shake!\xf000븁\x0000Even if I lost, at least I got to\xfffeshow off while fighting you!
 Heyyy! My Pokémon rock!\xfffeLookit 'em!!\xf000븁\x0000
 Waaaugh!!
 People call me an "ace," but\xfffethat doesn't seem... right, y'know?\xf000븁\x0000I just wanna be strong\xfffe'cause I like Pokémon!
@@ -352,7 +352,7 @@ If not people nor Pokémon...\xfffebut only the world alone vanishes,\xf000븀\x
 I'm filled with an\xfffeindescribable energy!\xf000븁\x0000
 The energy's dropping...\xfffeByoo-byoo-byoo-byoo...
 The world has many kinds of\xfffeenergies flowing around in it.\xf000븀\x0000Like hopes, like dreams...
-...I still want to fight!\xfffeThat, the wandering spirits whipser!\xf000븁\x0000
+...I still want to fight!\xfffeThat, the wandering spirits whisper!\xf000븁\x0000
 Pant, pant...\xfffeAnd I want to calm down for a bit...
 The Tower of Heaven...\xfffeit's filled with various feelings,\xf000븀\x0000with particular reasons to desire life.
 When I do my practice,\xfffeI really feel I've become amazing!\xf000븀\x0000You know the feeling?\xf000븀\x0000So! Let's battle!\xf000븁\x0000
@@ -521,7 +521,7 @@ Dad works in the gym!\xfffeI'm training hard here!!\xf000븁\x0000
 I've fought Pokémon with dad,\xfffebut that was a pretty good battle!
 The old workers\xfffetransport Pokémon and cargo!\xf000븁\x0000In my comfy shorts,\xfffeI'll join forces with my Pokémon!\xf000븁\x0000
 Hmm! You seem to be\xfffeeven better friends with Pokémon!
-The Pokémon around the containers\xfffecame on ships from foreign contries...\xf000븁\x0000Or so I like to pretend!
+The Pokémon around the containers\xfffecame on ships from foreign countries...\xf000븁\x0000Or so I like to pretend!
 The taaaaall grass is waaaaay filled\xfffewith nuttin' but strong Pokémon!\xf000븁\x0000
 Hot dang!\xfffeWhat a trainer!!
 Fightin' with Pokémon in the tall grass\xfffemakes ya more 'n' more awesome!
@@ -538,7 +538,7 @@ I should have been elegant,\xfffebut I feel like I've slipped and tumbled!
 I've seen many trainers!\xf000븁\x0000The air I feel from tough trainers...\xfffeI feel from you as well!\xf000븁\x0000
 Truly!\xfffeJust as felt!
 Of course I feel your strength,\xfffealong with overflowing kindness...
-Could you be my most\xfffepowerful opponent in the vincinity?\xf000븁\x0000
+Could you be my most\xfffepowerful opponent in the vicinity?\xf000븁\x0000
 Your talent and your sense...\xfffeThey're both dazzling!
 I wonder, could the secret of\xfffeyour strength be your devotion?
 I am a waiter skilled\xfffein Pokémon battling!\xf000븁\x0000
@@ -572,7 +572,7 @@ Hiun Gym slowly unfolds!\xf000븁\x0000Just like a beautiful art piece,\xfffeor 
 A beautiful fight...\xfffe...But is it art?
 Press two switches, light two\xfffelamps, open a gate!\xf000븀\x0000This too is art!
 I love the feeling of\xfffepassing through the honey walls...\xf000븀\x0000I've done it countless times!\xf000븁\x0000
-Inexplicible...\xfffeIt's like passing through honey!
+Inexplicable...\xfffeIt's like passing through honey!
 The honey walls...\xfffeWhat are they really made of?\xf000븁\x0000Don't you find it suspicious\xfffethat Mr. Arty refuses to tell?
 How about it? This gym...\xfffeIt has a certain je ne sais quoi...\xf000븀\x0000A mysterious kind of charm, yes?\xf000븁\x0000
 You, too, have\xfffemuch charm as a trainer!
@@ -718,9 +718,9 @@ In happy and sad times,\xfffePokémon are beside us...\xf000븁\x0000Let us pray
 The Tower of Heaven...\xfffeis a tower that rises to heaven!\xf000븁\x0000...Anyway, let me\xfffefight your Pokémon!\xf000븁\x0000
 Truly heavenly!
 I nearly felt like\xfffeI was gonna be laid to rest here!
-Pokémon trained in Isshu\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000Both rest in peace here.\xf000븁\x0000
+Pokémon trained in Unova\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000Both rest in peace here.\xf000븁\x0000
 You swell with\xfffethe energy of life!
-Pokémon trained in Isshu\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000All were beloved...
+Pokémon trained in Unova\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000All were beloved...
 Now I shall expose you\xfffefor your true colors...\xf000븁\x0000You are...\xf000븁\x0000A Pokémon trainer!\xf000븁\x0000
 How can this be?!\xfffeI knew your true colors!
 Understanding your foe\xfffeis something anyone can do...
@@ -763,7 +763,7 @@ If neither of us had Pokémon,\xfffeI wouldn't be losing like this!
 What are you doing getting in our way\xfffewhen you don't know jack about our ideal?!
 I fight for the young king...\xfffeAnd that is all!\xf000븁\x0000
 My liege...\xfffeI can make no excuse.
-Nothing is changeless.\xfffeIsshu too shall be reborn.\xf000븀\x0000Why can't you SEE that?
+Nothing is changeless.\xfffeUnova too shall be reborn.\xf000븀\x0000Why can't you SEE that?
 The changing of the world\xfffewill be accompanied by pain!\xf000븁\x0000
 Ow-ow-ow...\xfffeBut I don't like pain!
 But if no one will change the world,\xfffewe must do our best to try!\xf000븁\x0000Yes! Can't you understand\xfffehow Lord N feels?!
@@ -953,7 +953,7 @@ My darlin's a janitor!\xfffeHe sweeps up all the mounds\xf000븀\x0000on his own
 Sports in the rain\xfffeseem like such a pain!\xf000븁\x0000What about a Pokémon battle\xfffein the rain, though?\xf000븁\x0000
 Well, it's indoors,\xfffeso it doesn't rain in here...
 The stadium has roofs\xfffeso there can be games anytime!
-Hey! It's me! It's me!\xfffeIt's Isshu's top pilot!\xf000븁\x0000
+Hey! It's me! It's me!\xfffeIt's Unova's top pilot!\xf000븁\x0000
 You! You've got guts!\xfffeBe my apprentice!
 You ever flown in your life?!\xfffeFly, fly, fly your heart out!
 Wanna know what\xfffethe VIP seats are like?\xf000븁\x0000Beat me and I'll\xfffetell you about them!\xf000븁\x0000
@@ -1244,7 +1244,7 @@ Once the king of Team Plasma\xfffeorders the world into union...\xf000븁\x0000T
 We exist for\xfffethe sake of Lord N!\xf000븁\x0000
 Ah!\xfffeLord N...!
 Since there is night,\xfffethe sun is beautiful.\xf000븁\x0000Since there is us,\xfffeour king must shine...!
-Isshu's new dawn\xfffeis growing distant...
+Unova's new dawn\xfffeis growing distant...
 Stooop! Er, but like I said,\xfffeyou won't stop US!
 What?!\xfffeYou're still fighting fit!
 Even if I lost, I'll say it anyway!\xfffePLAS-MA! PLAS-MA!
@@ -1431,7 +1431,7 @@ You, too, perfectly understand\xfffeeach other's hearts!
 When you look at this berry,\xffferemember us!\xf000븁\x0000
 My work as a Ranger is fun,\xfffebut I just love passing time\xf000븀\x0000with my Pokémon!\xf000븁\x0000Nothing will ever part us!
 You there!\xfffeDo you raise your own Pokémon?\xf000븀\x0000Or leave them to the daycare?\xf000븁\x0000
-I was only thinking\xfffeabout the eggs...
+I was only thinking\xfffeabout eggs...
 Share this berry\xfffewith your precious Pokémon!\xf000븁\x0000
 The daycare on Route 3!\xf000븁\x0000If you leave two Pokémon there...\xf000븁\x0000You might come back to find...\xfffeWhoa! An egg! How'd that happen!
 Look at this beautiful plain,\xfffewide open for a healthy run...\xf000븀\x0000Now look at my Pokémon!\xf000븁\x0000
@@ -1440,7 +1440,7 @@ I'll share this berry\xfffewith your Pokémon as well!\xf000븁\x0000
 I vigorously ran so much,\xfffeit just wore me out...\xf000븀\x0000Don't you think that's cute?!
 Sometimes, you're on a picnic!\xfffeSometimes, you battle!\xf000븁\x0000
 Haru: Your Pokémon look like\xfffegreat friends to have!\xf000븁\x0000Chika: While I was thinking about what\xfffemy partner was doing, it was over...
-I was just thinking...\xfffeWhen you have Pokémon in balls...\xf000븁\x0000You absolutely have to\xfffshow them your feelings!
+I was just thinking...\xfffeWhen you have Pokémon in balls...\xf000븁\x0000You absolutely have to\xfffeshow them your feelings!
 It's a picnic for two!\xfffeDon't you have two Pokémon?
 With our perfect combination,\xfffewe'll sweep you off your feet!\xf000븁\x0000
 While I was thinking about what\xfffemy partner was doing, it was over...
@@ -1448,7 +1448,7 @@ To fight a Double Battle well,\xfffeyou have to know the moves\xf000븀\x0000you
 We fight as a duo,\xfffeso you need two Pokémon!
 I was lookng into the\xfffePokémon around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
 Why...!\xfffeWhat deeply interesting Pokémon!
-In Isshu and in other regions,\xfffePokémon that look similar...\xf000븁\x0000They can have different\xfffenatures or appearances!
+In Unova and in other regions,\xfffePokémon that look similar...\xf000븁\x0000They can have different\xfffenatures or appearances!
 I was lookng into the\xfffeterrain around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
 Why...!\xfffeWhat a deeply interesting trainer!
 The ruggedness of this terrain...\xfffeI estimate this undulation is a result\xf000븀\x0000of the flow of a river.
@@ -1457,10 +1457,10 @@ Could I even see\xfffethat strength...?!
 Artists can be classified\xfffeinto two types...\xf000븁\x0000Those who make the visible,\xfffeand those that make the invisible!
 I'm a fantastic fisherman\xfffewho loves everything!\xf000븁\x0000As such a fisherman, I must\xfffefight with fantastic Pokémon!!\xf000븁\x0000
 I lost!\xfffeI love you all!
-I want to set out on the\xfffeS.S. Royal Isshu from Hiun City\xf000븀\x0000and try some sea fishing!
+I want to set out on the\xfffeS.S. Royal Unova from Hiun City\xf000븀\x0000and try some sea fishing!
 Don't get overwhelmed\xfffeby my Pokémon!\xf000븁\x0000
 I'm too overwhelmed\xfffeto speak...!
-Is it my rod?\xfffeOr is it my own fault?\xf000븀\x0000...Or is it having the same Pokémon?
+Is it my rod?\xfffeOr is it my own fault?\xf000븀\x0000...Or is it having all the same Pokémon?
 Hmm! I feel you are\xfffea capable Pokémon trainer!\xf000븁\x0000If I battle you, perhaps I'll get\xfffethe gist of what you're like!\xf000븁\x0000
 Hm! Strong ones are strong...\xfffeand weak ones are weak!
 I guess the gist of fishermen is...\xfffe"Leisurely hurrying"?
@@ -1587,7 +1587,7 @@ There's no ultimate Pokémon.\xfffeNo best combination ever was...\xf000븁\x000
 Here begins another wonderful diversion.\xfffeThis is my favorite part of all...
 At any time, I won't\xfffebe confused, and I won't clamor...
 For my Pokémon who fight with their\xfffebelief placed in me, I shall not give up!
-So far...\xfffeNo, so far and beyond...\xf000븁\x0000You'll prove to be a most elegant\xfffeand excellent trainer, you will.\xf000븁\x0000Your Pokémon carry such dignity\xfffethat it was a joy to face them.\xf000븀\x0000おあいてしていて　うれしかったわ
+So far...\xfffeNo, so far and beyond...\xf000븁\x0000You'll prove to be a most elegant\xfffeand excellent trainer, you will.\xf000븁\x0000Your Pokémon carry such dignity\xfffethat it was a joy to face them.
 ...You think you can\xfffestop us with that?!
 My final friend...\xfffeLend me your courage!
 Do you mean the world\xfffehas not chosen me, but you?!
@@ -1617,13 +1617,13 @@ Whoa! I'm astonished!\xfffeThat move was INTENSE!
 The Pokémon Burmy!\xfffeIt changes form depending\xf000븀\x0000on where it fights!\xf000븀\x0000Isn't that cool? Isn't that cool?
 YAHHH!!\xf000븁\x0000D...! Don't sneak up on me\xfffefrom behind like that!!\xf000븁\x0000
 Man, I lost...\xfffeThat makes me a sad panda...
-I've been writing bunch of\xfffestuff on the wall...\xf000븁\x0000Ah! Don't you DARE look!\xfffe...They're my secrets!
+I've been writing a bunch of\xfffestuff on the wall...\xf000븁\x0000Ah! Don't you DARE look!\xfffe...They're my secrets!
 Compare! Whose Pokémon\xfffeare stronger?!\xf000븁\x0000
 I give!\xfffeYour Pokémon are strooooong!
 I get scraped up lots in these shorts,\xfffebut I'm comfortable with that!\xf000븁\x0000I can get my Pokémon\xfffeto lick my scrapes!
-This is our playground!\xf000븁\x0000Lord Landlos watches over us!\xf000븁\x0000
+This is our playground!\xf000븁\x0000And the great Landlos\xfffewatches over us!\xf000븁\x0000
 Wahaha!\xfffeYour Pokémon look to be having fun!
-Lord Landlos...\xfffeIs it a gentle and strong Pokémon?
+The great Landlos...\xfffeIs it a gentle and strong Pokémon?
 If you have the move Dive,\xfffeyou can dive down in the sea!\xf000븁\x0000
 Glub, glub...\xfffe...I'm sinking.
 Do your Pokémon know Dive?\xf000븁\x0000Dive is great! Wonderful!\xfffeDive all the time!
@@ -1640,7 +1640,7 @@ Oh? Did you come to see\xfffeCynthia in her swimsuit?\xf000븁\x0000
 Why don't you get off your Pokémon\xfffeand go swimming yourself, huh?
 ...I hear that when no one's around,\xfffeCynthia secretly goes swimming.\xf000븁\x0000Talk about an awesome rumor!\xfffeOr at least, supposedly-awesome.
 The calming waves of Sazanami Town\xfffemake me feel wonderful!\xf000븁\x0000
-Your fighting style is\xfffemuch wilder, but still impessive!
+Your fighting style is\xfffemuch wilder, but still impressive!
 Floating on the waves feels great!\xfffeBeing with Pokémon feels great!
 After much study, I've learned that\xfffethe night is still full of mystery!\xf000븁\x0000
 Do I need to get along with my\xfffePokémon better? It is a mystery!
@@ -1658,7 +1658,7 @@ My moves don't got\xfffenearly enough power in 'em!
 My steps are all off!\xfffeBetter redo my lessons!
 Man, my footwork...!\xfffeIt's the worst!
 PLASMAAAAA!\xfffeI fell in the Ancient Castle...
-The strengh that brought down\xfffeLord N... I feel it in my bones! Ow!
+The strength that brought down\xfffeLord N... I feel it in my bones! Ow!
 So this is the trainer who protected\xfffeour world of coexisting with Pokémon...
 I'll hit you with everything\xfffeI've gained on this journey!
 ...My Pokémon and I will show you\xfffethe full extent of our power!
