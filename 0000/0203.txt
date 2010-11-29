@@ -7,7 +7,7 @@ The foe is slugged by a punch thrown\xfffewith muscle-packed power.
 Numerous coins are hurled at the foe\xfffeto inflict damage. Money is earned after\xfffebattle.
 The foe is punched with a fiery fist.\xfffeIt may leave the target with a burn.
 The foe is punched with an icy fist.\xfffeIt may leave the target frozen.
-The foe is punched with an electrified fist.\xfffeIt may leave the target paralyzed.
+The foe is punched with an electrified fist.\xfffeIt may leave the target with paralysis.
 Hard, pointed, and sharp claws\xffferake the foe to inflict damage.
 Huge, impressive pincers grip and\xfffesqueeze the foe.
 A vicious, tearing attack with pincers.\xfffeThe foe will faint instantly if this attack\xfffehits.
@@ -20,7 +20,7 @@ The foe is blown away, to be replaced by\xfffeanother Pokémon in its party. In 
 The user soars, then strikes on the second\xfffeturn. It can also be used for flying to\xfffeany familiar town.
 A long body or tentacles are used to\xfffebind and squeeze the foe for two to\xfffefive turns.
 The foe is slammed with a long tail,\xfffevines, etc., to inflict damage.
-The foe is struck with slender, whip-like\xfffevines to inflict damage.
+The foe is struck with slender, whiplike\xfffevines to inflict damage.
 The foe is stomped with a big foot.\xfffeIt may also make the target flinch.
 The foe is quickly kicked twice in\xfffesuccession using both feet.
 The foe is attacked by a kick launched\xfffewith muscle-packed power.
@@ -36,7 +36,7 @@ The user drops onto the foe with its full\xfffebody weight. It may leave the foe
 A long body or vines are used to wrap and\xfffesqueeze the foe for two to five turns.
 A reckless, full-body charge attack for\xfffeslamming into the foe. It also damages the\xfffeuser a little.
 The user rampages and attacks for\xfffetwo to three turns. It then\xfffebecomes confused, however.
-A reckless, life-risking tackle.\xfffeIt also damages the user by\xfffea fairly large amount, however.
+A reckless, life- risking tackle.\xfffeIt also damages the user by\xfffea fairly large amount, however.
 The user wags its tail cutely, making\xfffethe foe less wary. The target's\xfffeDefense stat is lowered.
 The foe is stabbed with a poisonous\xfffebarb of some sort. It may also poison\xfffethe target.
 The foe is stabbed twice by a pair\xfffeof stingers. It may also poison\xfffethe target.
@@ -72,7 +72,7 @@ The foe is slugged with a punch thrown at\xfffemaximum power. It can also be use
 A nutrient-draining attack. The user’s ＨＰ is\xffferestored by half the damage taken\xfffeby the target.
 A nutrient-draining attack. The user’s ＨＰ is\xffferestored by half the damage taken\xfffeby the target.
 A seed is planted on the foe. It steals some\xfffeＨＰ from the foe to heal the user on\xfffeevery turn.
-The user’s body is forced to grow all at\xfffeonce. It raises the Atk and Sp. Atk stats.
+The user’s body is forced to grow all at\xfffeonce. It raises the Sp. Atk stat.
 Sharp-edged leaves are launched to\xfffeslash at the foe. It has a high critical-hit\xffferatio.
 A two-turn attack. The user gathers light,\xfffethen blasts a bundled beam on the second\xfffeturn.
 A cloud of poisonous dust is scattered on\xfffethe foe. It may poison the target.
@@ -251,7 +251,7 @@ The user hits with a punch that may lower\xfffethe target’s Defense. It can al
 Traps the foe inside a whirlpool that lasts\xfffefor two to five turns. The user can pass\xfffethrough whirlpools.
 The user gets all the party Pokémon to\xfffeattack the foe. The more party\xfffePokémon, the more damage.
 An attack that hits first and makes the\xfffetarget flinch. It only works the\xfffefirst turn the user is in battle.
-The user attacks in an uproar for three\xfffeturns. During this time, no one can fall\xfffeasleep.
+The user attacks in an uproar for two to\xfffefive turns. Over that time, no one can fall\xfffeasleep.
 The user charges up power, and\xffferaises both its Defense and Sp. Def.\xfffeThe move can be used three times.
 The power stored using the move Stockpile is\xfffereleased at once in an attack.
 The power stored using the move Stockpile is\xfffeabsorbed by the user to heal its ＨＰ.
@@ -471,19 +471,19 @@ It protects all its teammates from attacks\xfffefor one turn. May fail if used i
 With psychic abilities it adds together the\xfffeDefence and Sp. Def of it and the foe\xfffeand then divides them in half.
 With psychic abilities it adds together the\xfffeAttack and Sp. Atk of it and  the foe\xfffeand then divides them in half.
 It creates a mysterious atmosphere.\xfffeAll Pokémon have their defence and\xfffeSp. Atk switched for 5 Turns.
-It makes its mysterious brain waves real and\xfffeattacks the opponents. It deals Physical damage.
+It makes its mysterious brain waves real and\xfffeattacks the opponents.\xfffeIt deals Physical damage.
 It hurls a special poison. Its power doubles\xfffeif it hits an opponent with Poison status.
 It cuts off useless parts of its body.\xfffeIt sharply raises its speed and makes its\xfffeweight lighter.
 It sprinkles itself with a powder that\xfffecauses frustration to call attention\xfffeto self. All the foes attacks aim towards it.
 It elevates foe with its psychic abilities.\xfffeUps hit rate for 3 turns.
 It creates a strange atmosphere.\xfffeNo Pokémon’s items have an effect\xfffefor 5 turns.
 It attacks by throwing rocks/bullets at\xfffea flying foe. The foe is knocked down\xfffeand falls to the ground.
-It strikes the foe with one mighty blow.\xfffeAlways results in a critical hit.
+It strikes the foe with one mighty blow.\xfffeAlways result in a critical hit.
 If it hits it attacks the opponent with a\xfffebursting flame. The burst flame will\xfffefall onto those nearby the hit Pokémon.
 It attacks those near it with a wave of\xfffesludge. It will sometimes cause poisoning.
 It lightly dances a mysterious dance.\xfffeIt raises its own Sp. Atk, Sp. Def,\xfffeand Speed.
 It attacks by striking the foe with its\xfffeheavy body. The heavier it is than\xfffeits foe, greater the power.
-With a strange electric wave, it damages\xfffeitself and other Pokémon who have\xfffethe same type.
+With a strange electric wave it damages\xfffeitself and other Pokémon who have\xfffethe same type.
 It slams an electric cluster into the\xfffeopponent. The faster it is than its\xfffeopponent, the greater the power.
 It bathes the opponent in lots of water and\xfffemakes their type Water.
 It puts on flame and attacks the opponent.\xfffeIt stores strength and its speed rises.
@@ -547,7 +547,7 @@ It attacks all around it with a crimson flame.\xfffeIt may cause a burn.
 It shoots a Photon Blaster at the foe.\xfffeThe type of the move varies upon on the\xfffeheld Cassette.
 It makes the opponent listen to an ancient\xfffesong and appeals to its heart. It may\xfffecause the opponent to sleep.
 It slashes at the foe with its long horn.\xfffeThe mysterious power of the horn deals\xfffephysical damage.
-It blows a cold chill like being frozen over\xfffethe foe. The foe's speed is sharply lowered.
+It blows a cold chill like being frozen over\xfffethe foe. The foes speed is sharply lowered.
 It covers itself in extensive amounts of\xfffeelectricity and charges at the opponent.\xfffeIt may cause paralysis.
 It surrounds the opponent in a beautiful\xfffeand violent blue flame. It may cause a burn.
 It covers its wings in fire and flaps them.\xfffeIt raises your Sp. Atk.
