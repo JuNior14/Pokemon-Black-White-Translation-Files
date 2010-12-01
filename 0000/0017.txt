@@ -42,10 +42,10 @@ Bateu \xf000Ȁ\x0001\x0000 vez(es)!
 \xf000Ā\x0001\x0000 rodou o Pokémon\xfffepara a direita！
 \xf000Č\x0001\x0000 ganhou \xfffe\xf000Ȇ\x0001\x0001 Pontos de Exp.!
 \xf000Č\x0001\x0000 ganhou e impulsionou\xfffe\xf000Ȇ\x0001\x0001 Pontos de Exp.!
-Ganhaste contra o/a \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001！
-Ganhaste contra o/a \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffe e \xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003！
-Ganhaste contra o/a \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001！
-Ganhaste contra o/a \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+Ganhaste contra o/a \xf000Ď\x0001\x0000\xfffe \xf000Ā\x0001\x0001！
+Ganhaste contra o/a \xf000Ď\x0001\x0000\xfffe \xf000Ā\x0001\x0001\xfffe e \xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003！
+Ganhaste contra o/a \xf000Ď\x0001\x0000\xfffe \xf000Ā\x0001\x0001！
+Ganhaste contra o/a \xf000Ď\x0001\x0000\xfffe \xf000Ā\x0001\x0001!
 Ganhaste contra o/a \xf000Ā\x0001\x0000!
 Ganhaste contra o/a \xf000Ā\x0001\x0000\xfffe e \xf000Ā\x0001\x0001!
 Perdeste contra o/a \xfffe\xf000Ā\x0001\x0000!
