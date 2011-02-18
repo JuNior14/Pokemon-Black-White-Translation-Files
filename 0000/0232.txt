@@ -1,5 +1,5 @@
 Impossível conectar-se à Nintendo\xfffeWi-Fi Connection.\xfffe\xfffepara ajudar, lê os manual de\xfffeinstruções do programa, ou visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: (\xf000Ȅ\x0001\x0000)
-A Nintendo Wi-Fi Connection\xfffeestá com demasiado tráfico\xfffeou o serviço está desligado.\xfffePor favor, tenta mais tarde. \xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+A Nintendo Wi-Fi Connection\xfffeestá com demasiado tráfico\xfffeou o serviço está desligado. \xfffePor favor, tenta mais tarde. \xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
 Este Nintendo Wi-Fi Connection ID\xfffefoi removido pois estava\xfffeinactivo à demasiado tempo. \xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000)
 O serviço da Nintendo Wi-Fi Connection\xfffepara este programa\xfffefoi discontinuado.\xfffe\xfffeVisita support.nintendo.com\xfffepara uma lista do software\xfffecompatível com uma Wi-Fi Connection. Código do erro: （\xf000Ȅ\x0001\x0000）
 O ponto de acesso está ocupado.\xfffeImpossível conectar.\xfffePor favor, tenta mais tarde.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
