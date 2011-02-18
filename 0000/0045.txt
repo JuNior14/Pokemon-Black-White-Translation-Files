@@ -2,7 +2,7 @@
 \xf000Ā\x0001\x0000のせかい と \xfffeせつぞく しました！
 \xf000Ā\x0001\x0000のせかい と \xfffeせつぞく しました！
 \xf000Ā\x0001\x0000のせかい と \xfffeせつぞく しました！
-\xf000Ā\x0001\x0000 tem uma ligação alta
+\xf000Ā\x0001\x0000 tem uma ligação alta 
 \xf000Ā\x0001\x0001 tem uma ligação alta
 \xf000Ā\x0001\x0002 tem uma ligação alta
 \xf000Ā\x0001\x0003 tem uma ligação alta
