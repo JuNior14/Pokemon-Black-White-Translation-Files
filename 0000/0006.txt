@@ -89,7 +89,7 @@ Vender
 ×\xf000Ȃ\x0001\x0000
 Retroceder
 PP
-Pó
+Poder
 Precisão
 Categoria
 \xf000ȁ\x0001\x0000
@@ -108,7 +108,7 @@ Ligado o poder para\xfffeGB Sons!
 Não podes usar \xf000ĉ\x0001\x0000.
 Espreitas-te para uma mala de tesouro!
 Retiraste \xf000ĉ\x0001\x0000!
-Por de lado \xf000ĉ\x0001\x0000\xfffe no \xf000ĉ\x0001\x0001.
+Por de lado \xf000ĉ\x0001\x0000\xfffeno \xf000ĉ\x0001\x0001.
 Tu tiraste tudo!
 Não havia nada dentro...
 Contudo, tu não pudeste\xfffetirá-lo...
