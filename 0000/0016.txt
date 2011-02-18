@@ -10,9 +10,9 @@ O Inimigo \xf000Ă\x0001\x0000 \xffferecuperou energia!
 É bastante eficaz contra \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!\xfffe
 É bastante eficaz contra o  \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001selvagem!\xfffe
 É bastante eficaz contra o inimigo  \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!\xfffe
-É bastante eficaz contra \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffe e \xf000Ă\x0001\x0002!
-É bastante eficaz contra o selvagem \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffe e \xf000Ă\x0001\x0002!
-É bastante eficaz contra o inimigo  \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffe e \xf000Ă\x0001\x0002!
+É bastante eficaz contra \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffee \xf000Ă\x0001\x0002!
+É bastante eficaz contra o selvagem \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffee \xf000Ă\x0001\x0002!
+É bastante eficaz contra o inimigo  \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffee \xf000Ă\x0001\x0002!
 \xf000Ă\x0001\x0000 \xfffenão é muito eficaz...
 O  \xf000Ă\x0001\x0000 selvagem \xfffenão é muito eficaz...
 O Inimigo \xf000Ă\x0001\x0000 \xfffenão é muito eficaz...
@@ -624,12 +624,12 @@ The wild \xf000Ă\x0001\x0000 copied \xfffe\xf000Ă\x0001\x0001's \xfffe\xf000Ć
 The wild \xf000Ă\x0001\x0000 copied\xfffethe wild \xf000Ă\x0001\x0001's\xf000븀\x0000\xf000Ć\x0001\x0002 stat changes!
 The foe's \xf000Ă\x0001\x0000copied \xfffe\xf000Ă\x0001\x0001's \xfffe\xf000Ć\x0001\x0002 stat changes!
 The foe's \xf000Ă\x0001\x0000 copied\xfffethe foe's \xf000Ă\x0001\x0001's\xf000븀\x0000\xf000Ć\x0001\x0002 stat changes!
-\xf000Ă\x0001\x0000 is trying \xfffe to take along!
-The wild \xf000Ă\x0001\x0000 is trying \xfffe to take along!
-The foe's \xf000Ă\x0001\x0000 is trying \xfffe to take along!
-\xf000Ă\x0001\x0000 is trying \xfffe to take the companion!
-The wild \xf000Ă\x0001\x0000 is trying \xfffe to take the companion!
-The foe's \xf000Ă\x0001\x0000 is trying \xfffe to take the companion!
+\xf000Ă\x0001\x0000 is trying \xfffeto take along!
+The wild \xf000Ă\x0001\x0000 is trying \xfffeto take along!
+The foe's \xf000Ă\x0001\x0000 is trying \xfffeto take along!
+\xf000Ă\x0001\x0000 is trying \xfffeto take the companion!
+The wild \xf000Ă\x0001\x0000 is trying \xfffeto take the companion!
+The foe's \xf000Ă\x0001\x0000 is trying \xfffeto take the companion!
 \xf000Ă\x0001\x0000 is trying to change\xfffethe season of the year!
 The wild \xf000Ă\x0001\x0000 is trying to change\xfffethe season of the year!
 The foe's \xf000Ă\x0001\x0000 is trying to change\xfffethe season of the year!
@@ -653,9 +653,9 @@ The foe's \xf000Ă\x0001\x0000 transformed into \xfffeits partner\xf000Ă\x0001\
 \xf000Ă\x0001\x0000 took aim at \xfffethe wild \xf000Ă\x0001\x0001!
 \xf000Ă\x0001\x0000 took aim at \xfffethe foe's \xf000Ă\x0001\x0001!
 The wild \xf000Ă\x0001\x0000 took aim at \xfffe\xf000Ă\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 took aim\xfffe at the wild \xf000Ă\x0001\x0001!\xf000븀\x0000
+The wild \xf000Ă\x0001\x0000 took aim\xfffeat the wild \xf000Ă\x0001\x0001!\xf000븀\x0000
 The foe's \xf000Ă\x0001\x0000 took aim at \xfffe\xf000Ă\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 took aim\xfffe at the foe's \xf000Ă\x0001\x0001!\xf000븀\x0000
+The foe's \xf000Ă\x0001\x0000 took aim\xfffeat the foe's \xf000Ă\x0001\x0001!\xf000븀\x0000
 \xf000Ă\x0001\x0000 is floating\xfffein the air due to its electromagnetic force!
 The wild \xf000Ă\x0001\x0000 is floating\xfffein the air due to its electromagnetic force!
 The foe's \xf000Ă\x0001\x0000 is floating\xfffein the air due to its electromagnetic force!
@@ -1036,9 +1036,9 @@ The wild \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x00
 The wild \xf000Ă\x0001\x0000 \xfffeThe wild \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000damaged?
 The foe's \xf000Ă\x0001\x0000 \xfffe\xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000damaged?
 The foe's \xf000Ă\x0001\x0000 \xfffeThe foe's \xf000Ă\x0001\x0001の　\xf000ĉ\x0001\x0002で\xf000븀\x0000damaged?
-\xf000Ă\x0001\x0000 took damage\xfffe from \xf000ĉ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000 took damage\xfffe from \xf000ĉ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000 took damage\xfffe from \xf000ĉ\x0001\x0001!
+\xf000Ă\x0001\x0000 took damage\xfffefrom \xf000ĉ\x0001\x0001!
+The wild \xf000Ă\x0001\x0000 took damage\xfffefrom \xf000ĉ\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 took damage\xfffefrom \xf000ĉ\x0001\x0001!
 \xf000Ă\x0001\x0000 is\xfffegetting pumped!
 The wild \xf000Ă\x0001\x0000 is\xfffegetting pumped!
 The foe's \xf000Ă\x0001\x0000 is\xfffegetting pumped!
@@ -1094,12 +1094,12 @@ The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the 
 The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
 The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xf000븀\x0000Are of the same Type!
 The foe's The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001\xf000븀\x0000Are of the same Type!
-\xf000Ă\x0001\x0000 shared\xfffe something power!
-The wild \xf000Ă\x0001\x0000 shared\xfffe something power!
-The foe's \xf000Ă\x0001\x0000 shared\xfffe something power!
-\xf000Ă\x0001\x0000 shared\xfffe something guard!
-The wild \xf000Ă\x0001\x0000 shared\xfffe something guard!
-The foe's \xf000Ă\x0001\x0000 shared\xfffe something guard!
+\xf000Ă\x0001\x0000 shared\xfffesomething power!
+The wild \xf000Ă\x0001\x0000 shared\xfffesomething power!
+The foe's \xf000Ă\x0001\x0000 shared\xfffesomething power!
+\xf000Ă\x0001\x0000 shared\xfffesomething guard!
+The wild \xf000Ă\x0001\x0000 shared\xfffesomething guard!
+The foe's \xf000Ă\x0001\x0000 shared\xfffesomething guard!
 \xf000Ă\x0001\x0000 is\xfffevery nimble!
 The wild \xf000Ă\x0001\x0000 is\xfffevery nimble!
 The foe's \xf000Ă\x0001\x0000 is\xfffevery nimble!
