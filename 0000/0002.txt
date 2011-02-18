@@ -93,7 +93,7 @@ Não terá nenhum efeito.
 O HP do \xf000Ă\x0001\x0000 foi restaurada por\xfffe\xf000Ȃ\x0001\x0001 pontos!
 O \xf000Ă\x0001\x0000 foi curado do seu\xfffeenvenenamento.
 O \xf000Ă\x0001\x0000 foi curado do sua\xfffeparalisia.
-A queimadura do \xf000Ă\x0001\x0000\xfffe foi curada.
+A queimadura do \xf000Ă\x0001\x0000\xfffefoi curada.
 O \xf000Ă\x0001\x0000\xfffefoi descongelado.
 PP foi restaurado.
 O \xf000Ă\x0001\x0000 \xffferecuperou do desmaio!
