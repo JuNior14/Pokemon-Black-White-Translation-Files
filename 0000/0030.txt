@@ -18,16 +18,16 @@ Configuração
 Estéreo
 Mono
 Português
-Kanji
+English
 Escrever
 Desligado
 かく
 かかない
-A Velocidade de texto pode ser configurada\xfffe em 3 tipos diferentes.
+A Velocidade de texto pode ser configurada\xfffeem 3 tipos diferentes.
 Optar por exibir animações de batalha.
 Escolha as normas-padrão\xfffede mudança de Pokémon no campo de batalha.
 Escolha a colocar o som\xfffeem estéreo ou em mono.
-Escolha como exibir texto.\xfffeKanji é uma língua Japonesa.
+Escolha como exibir texto.\xfffeEm PT ou em ENG.
 いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
 Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
 べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
