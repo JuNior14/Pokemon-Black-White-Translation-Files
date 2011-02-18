@@ -1,8 +1,27 @@
-つごうが わるいみたい…… \xf000Ȅ\x0001\x0009
-つうしんエラーが\xfffeはっせい しました\xfffe\xfffeユニオンルームの ばあいは\xfffeユニオンルームに はいりなおします\xfffeそれいがいの ばあいは\xfffeさいごに レポートをかいた\xfffeばしょに もどります\xfffeＡボタンを おしてください
-Um erro de comunicação\xfffeはっせい しました（\xf000Ȅ\x0001\x0000）\xfffeでんげんを きって\xfffeいれなおして ください\xfffe\xfffeなんども\xfffeこのメッセージが でるときは\xfffeサポートセンターに\xfffeおといあわせ ください
-Um erro de comunicação \xfffe Ocorreu \xfffe \xfffe A voltar ao menu principal \xfffe por favor, aperte A
-ただいま ＧＴＳが こみあっています\xfffeしばらく じかんを おいて\xfffeもういちど おためし ください\xfffe\xfffeＷｉ－Ｆｉコネクション から\xfffeせつだん しました\xfffeＡボタンを おしてください
-Um erro de comunicação\xfffeはっせい しました\xfffeでんげんを きって\xfffeいれなおして ください\xfffe\xfffeなんども\xfffeこのメッセージが でるときは\xfffeサポートセンターに\xfffeおといあわせ ください
-Erro de comunicação\xfffeはっせい しました\xfffe\xfffeＷｉ－Ｆｉコネクション から\xfffeせつだん しました\xfffeさいごに レポートをかいた\xfffeばしょに もどります\xfffeＡボタンを おしてください
-Um erro de comunicação\xfffe ocorreu \xfffe desconecte\xfffe da comunicação WIFI \xfffe A voltar ao menu principal\xfffe por favor, aperte A
+Sobre Config. do IR
+Sobre Config. do Wi-Fi
+Sobre Config. do Wi-Fi
+Sobre Config. do Wireless
+Sobre Config. do Wireless
+Sobre Config. do Wireless
+Sobre Config. do Wireless
+Sobre Config. do Wireless
+Sobre Tag Mode
+Sobre Radar Surveys
+Sobre as config. personalizadas
+Sobre On/Off
+A usar infravermelho\xfffeめのまえにいる ともだちと きがるに\xfffeたいせんや こうかんが できます。\xfffeまた あいしょうが わかる\xfffeフィーリングチェックや\xfffeともだちコードの こうかんも できます。
+Botão GAME SYNC \xfffeEscolha um Pokémon para dormir \xfffeem seguida, conectar-se à Wi-Fi \xfffepara que possas enviar o relatório.
+Ｗｉ－Ｆｉの でんぱを キャッチしても\xfffeほんたいせっていが できていないと\xfffeＷｉ－Ｆｉに せつぞく できません。
+A usar Wireless\xfffeちかくにいる ともだちと\xfffeつぎの あそびが できます。\xfffe・Live Caster\xfffe・Link Principal
+Live Caster\xfffeFriend codes no C-Gear\xfffeこうかんしたり Ｗｉ－Ｆｉクラブで\xfffeいっしょに あそんだことの ある\xfffeともだちと ライブキャスターを\xfffeつかって あそべます。
+Se tu tocares no botão Link Principal,\xfffeirás ao Link Principal em um instante.
+じぶんの まわりで げんざい\xfffeユニオンルームに はいっている\xfffeにんずうが わかります。\xfffeまた ちかくで ワイヤレスの\xfffeはいしんを おこなっているかも\xfffeわかります。
+それと Ｃギアの でんげんを\xfffeオンにしている ひとが\xfffeまわりに いるか わかります。\xfffeちかくに ひとが いると\xfffeすれちがいや ちょうさレーダーの\xfffeつうしんを キャッチ しやすいです。
+すれちがった ひとが\xfffeどんなことを しているのかが\xfffeリアルタイムで ひょうじされます。\xfffeタッチすることで あいてについて\xfffeくわしく みたり\xfffeじゆうに はつげん できます。
+すれちがった ひとの\xfffeこのみや しゅみを ちょうさできます。\xfffeちょうさしたい ないようを きめれば\xfffeきょう すれちがった ひとの データ\xfffeいままでに すれちがった ひとの\xfffeデータを みることが できます。
+カスタムマークを タッチすると\xfffeマークが てんめつ します。\xfffeその じょうたいで ボタンを\xfffeタッチすると いろが へんか します。\xfffeいろの ボタンを ならべて\xfffeすきな もようを つくれます。
+でんげんマークを タッチすると\xfffeオンと オフを きりかえるかの\xfffeかくにんがめんに かわります。\xfffeオフにすると タッチぶぶんが\xfffeくらくなり どうじに\xfffeむせんの つうしんが オフになります。
+Próximo
+Voltar
+Anterior
