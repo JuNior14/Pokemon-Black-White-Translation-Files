@@ -10,8 +10,8 @@ Não
 O teu vídeo está a ser guardado.\xfffePor favor, aguarde!
 A tua batalha foi guardada.
 Houve um erro.\xfffeNão foi possível guardar o Vídeo.
-A esperar por um adversário.\xfffe Por favor, aguarde!
-O teu adversário ainda não está pronto.\xfffe Por favor, aguarde!
+A esperar por um adversário.\xfffePor favor, aguarde!
+O teu adversário ainda não está pronto.\xfffePor favor, aguarde!
 Não podes gravar uma batalha com este adversário.
 Não podes gravar esta batalha.
 ＳＥＬＥＣＴ　ＴＩＭＥ
