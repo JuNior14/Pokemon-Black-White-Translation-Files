@@ -1,23 +1,23 @@
 Queres guardar\xfffeesta batalha no teu Vs Recorder?
 Sim
 Não
-Os dados vão se perder para sempre,\xfffetens a certeza?
+Os dados serão perdidos para sempre,\xfffetens a certeza?
 Sim
 Não
-Vais substituir o teu Video de Combate anterior.\xfffeTens a certeza?
+Vais substituir o teu Vídeo de Batalha anterior.\xfffeTens a certeza?
 Sim
 Não
-O teu video está a ser guardado.\xfffePor favor Aguarde!
-O teu combate foi guardado.
-Houve um erro\xfffeNão foi possivel guardar o Video.
-A esperar por um oponente\xfffe Por favor aguarde!
-O teu oponente ainda não está pronto\xfffe Por favor aguarde!
-Não podes gravar uma batalha com este oponente.
+O teu vídeo está a ser guardado.\xfffePor favor, aguarde!
+A tua batalha foi guardada.
+Houve um erro.\xfffeNão foi possível guardar o Vídeo.
+A esperar por um adversário.\xfffe Por favor, aguarde!
+O teu adversário ainda não está pronto.\xfffe Por favor, aguarde!
+Não podes gravar uma batalha com este adversário.
 Não podes gravar esta batalha.
 ＳＥＬＥＣＴ　ＴＩＭＥ
 \xf000ȁ\x0001\x0000xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-Recorde Anterior
+Gravação Anterior
 Coliseu Único\xfffeIrrestrito
 Coliseu Único\xfffeApartamento
 Coliseu Único\xfffeRodagem irrestrita
