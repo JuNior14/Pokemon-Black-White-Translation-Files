@@ -25,7 +25,7 @@ Montanha
 Aula
 Quebrar
 Almoços escolares
-Familia
+Família
 Amigos
 Auto
 Primavera
@@ -37,18 +37,18 @@ Picante
 Azedo
 Amargo
 Interessante
-Cool
+Fixe
 Bom
 Rico
 Luta
 Recolher
 História
 Pokémon
-Primeira Lingua
+Primeira Língua
 Matemática
 Ciência
 Sociedade
-Primeira Lingua
+Primeira Língua
 Matemática
 Ciência
 Sociedade
@@ -56,7 +56,7 @@ Treinador
 Professor Pokémon
 Equipa Plasma
 Pokémon
-Jogar ao ar livre
+Brincar ao ar livre
 Loja
 Ler
 Jogo
@@ -65,17 +65,17 @@ Popular
 Rock
 Jazz
 Rap
-Classico
-Noticias
+Clássico
+Notícias
 Drama
-Comedia
+Comédia
 Desportos
 Anime
 Acção
 SF
 Amor
 Suspense
-Comedia
+Comédia
 Horror
 Basebol
 Futebol
@@ -126,7 +126,7 @@ Luta
 Veneno
 Terra
 Voador
-Psiquico
+Psíquico
 Insecto
 Rocha
 Fantasma
