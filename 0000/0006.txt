@@ -125,7 +125,7 @@ Bolso das PokéBolas\xfffePara todos os diferentes tipos de PokéBolas.
 Bolso dos TMs e HMs\xfffePara todos os diferentes tipos de TMs e HMs.
 Bolso dos Berry\xfffePara ordenar e guardar diferentes\xfffeBerries.
 Bolso dos Mail\xfffePara ordenar e guardar vibrantes\xfffeestacionários.
-Bolso dos Itens de Batalha\xfffePara items que são úteis durante as batalhas.
+Bolso dos Items de Batalha\xfffePara items que são úteis durante as batalhas.
 Bolso dos Items Chave\xfffePara items que são indispensáveis para a\xfffetua aventura.
 Parar
 \xf000ĉ\x0001\x0000
@@ -136,5 +136,5 @@ Não
 Vazio!
 Tu usaste uma Pedra Escura,\xfffemas nada aconteceu...
 Tu usas-te uma Pedra de Luz,\xfffemas nada aconteceu...
-Os teus itens foram\xfffeorganizados!
+Os teus items foram\xfffeorganizados!
 \xf000Ē\x0001\x0000
