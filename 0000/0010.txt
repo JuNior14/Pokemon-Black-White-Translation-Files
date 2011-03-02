@@ -4,7 +4,7 @@ Passatempos
 Tempo de Jogo
 \xf000đ\x0001\x0000
 \xf000đ\x0001\x0000
-\xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002xf000ȁ\x0001 \x0003
+\xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002xf000ȁ\x0001\x0003
 Lugar de nascimento
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
 Vezes que foi agradecido\xfffeVezes que foi passado por alguém
@@ -13,9 +13,9 @@ Vezes que foi agradecido\xfffeVezes que foi passado por alguém
 \xf000Ȃ\x0001\x0002xf000ȁ\x0001\x0003
 São ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001 \x0001
 São ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001 \x0001
-Estas a lutar \xf000ā\x0001\x0000と\xfff contra un Pokemon selvagem.
-Estas a lutar \xfffcontra um Pokémon especial.
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffeactualmente estão a lutar.
-Estas a lutar \xfffecontra um líder de ginásio.
-Estas a lutar \xfffecontra um treinador especial.
-\xf000ą\x0001\x0000を\xfffeA transferir.
+Estás a lutar com um\xf000ā\x0001\x0000\xfffeselvagem.
+Estás a lutar\xfffecontra um Pokémon especial.
+Estás a combater o\xf000Ď\x0001\x0000\xfffe\do xf000Ā\x0001\x0001.
+Estás a lutar\xfffecontra um líder de ginásio.
+Estás a lutar\xfffecontra um treinador especial.
+A transferir o\xfffe\xf000ą\x0001\x0000を.
