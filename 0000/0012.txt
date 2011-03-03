@@ -30,7 +30,7 @@ Caixa 23
 Caixa 24
 \xf000ȁ\x0001\x0000
 Saltar
-Imagem de fundo
+Imagem de Fundo
 Nome
 Sair
 Cenário 1
