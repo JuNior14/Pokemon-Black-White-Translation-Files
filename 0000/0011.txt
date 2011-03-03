@@ -6,7 +6,7 @@ Queres usar\xfffe\xf000đ\x0001\x0001?\xfffePrecisas de: \xf000Ȃ\x0001\x0002Ten
 Vais usar\xf000đ\x0001\x0001\xfffeactivado por\xf000Ā\x0001\x0000?
 O poder foi iniciado!!\xfffe\xf000đ\x0001\x0001\xfffeQueres usá-lo?
 \xf000đ\x0001\x0001\xfffeUsado!
-Não tens Bolas de Saída suficientes\xfffepara usar o poder.\xfffePrecisas:\xf000Ȃ\x0001\x0002\xfffeTens:\xf 000Ȃ\x0001\x0003
+Não tens Exit Ball suficientes\xfffepara usar o poder.\xfffePrecisas:\xf000Ȃ\x0001\x0002\xfffeTens:\xf 000Ȃ\x0001\x0003
 A usar\xf000đ\x0001\x0001.\xfffeFaltam\xf000ȁ\ x0001\x0005segundos.
 A usar\xf000đ\x0001\x0001.\xfffeFaltam\xf000Ȃ\ x0001\x0004minutos,\xf000ȁ\x0001\x0005segundos.
 Disseste\xfffe\xf000Ĝ\x0001\x0000!
@@ -42,7 +42,7 @@ Isto é uma mensagem de simulação\xfffepara corresponder ao ID de Acção\xfff
 Recebeste um agradecimento de\xfffe\xf000Ā\x0001\x0000!
 Actualmente a transferir\xfffe\xf000ā\x0001\x0001!
 Actualmente a transferir\xfffe\xf000ĉ\x0001\x0001!
-Actualmente a transferir\xfffeum Presente Mistério!
+Actualmente a transferir\xfffeum Mistery Gift!
 O ataque do \xf000Ă\x0001\x0002 de\xfffe\xf000Ā\x0001\x0000 foi um golpe crítico!
 O \xf000Ă\x0001\x0002 do \xf000Ā\x0001\x0000\xfffesofreu um golpe crítico!
 \xf000Ā\x0001\x0000 escapou!
