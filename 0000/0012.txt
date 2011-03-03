@@ -2,7 +2,7 @@
 \xf000Ă\x0001\x0000
 Item equipado
 Natureza
-Abilidade
+Habilidade
 \xf000ċ\x0001\x0000
 Caixa 1
 Caixa 2
@@ -30,7 +30,7 @@ Caixa 23
 Caixa 24
 \xf000ȁ\x0001\x0000
 Saltar
-Wallpaper
+Imagem de fundo
 Nome
 Sair
 Cenário 1
@@ -44,25 +44,25 @@ Cidade
 Deserto
 Savana
 Montanha de pedra
-Volcão
+Vulcão
 Montanha nevada
 Cave
 Praia
 Mar
 Rio
 Céu
-Centro Pokemon
+Centro Pokémon
 Metal
 Verificar
 Simples
-Special
+Especial
 Reshiram
 Zekrom
 Monochromo
 Equipa Plasma
 Munna
 Zoroark
-Subway
+Subterrâneo
 Musical
 Atrás
 Frente
@@ -74,7 +74,7 @@ Mudar de caixa
 Organizar mochila
 Ver estado
 Item equipado
-Marking
+Marca
 Libertar
 Tirar
 Depositar
@@ -88,8 +88,8 @@ Trocar
 Sair
 Sair
 Trocar de\xfffeCaixa
-Trocar\xfffeWallpaper
-Depositar\xfffePokemon
+Trocar\xfffeImagem de Fundo
+Depositar\xfffePokémon
 Para a mochila
 Esperar
 Mover
@@ -99,14 +99,14 @@ Mover
 \xf000Ĉ\x0001\x0000
 \xf000ĉ\x0001\x0000
 Natureza
-Abilidade
+Habilidade
 Item equipado
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 Nada
 ???
-Lv.
-No.
+Nv.
+Nº.
 Ataques
 Sim
 Não
