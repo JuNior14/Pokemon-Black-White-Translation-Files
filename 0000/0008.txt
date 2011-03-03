@@ -34,9 +34,9 @@ Enviar Data
 Últimos 30	
 Procura Detalhada
 Procurar por Números	
-Procurar por Facilidade
+Procurar por Instalação
 Procurar por Pokémon
-Procurar por Facilidade
+Procurar por Instalação
 Procurar por Pokémon
 Procurar por Local
 Enviar Foto
