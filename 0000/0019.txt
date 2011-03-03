@@ -7,7 +7,7 @@
 \xf000Ȃ\x0001\x0000
 ／
 \xf000ȁ\x0001\x0000
-A Gravar o jogo! \xfffePor favor aguarde!
-Os dados guardados estão corrompidos,\xfffeo save anterior vai ser carregado.
-A avançar! xfffePor favor aguarde!
-Em pausa...\xfffePor favor aguarde!
+A gravar o jogo! \xfffePor favor, aguarde!
+Os dados guardados estão corrompidos,\xfffeserá carregado o save anterior.
+A avançar! xfffePor favor, aguarde!
+Em pausa...\xfffePor favor, aguarde!
