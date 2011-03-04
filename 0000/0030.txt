@@ -15,23 +15,23 @@ Ligado
 Desligado
 Mudança
 Configuração
-Estéreo
+Stereo
 Mono
 Português
 English
 Escrever
 Desligado
-かく
-かかない
+Escrever
+Não
 A Velocidade de texto pode ser configurada\xfffeem 3 tipos diferentes.
 Optar por exibir animações de batalha.
-Escolha as normas-padrão\xfffede mudança de Pokémon no campo de batalha.
-Escolha a colocar o som\xfffeem estéreo ou em mono.
-Escolha como exibir texto.\xfffeEm PT ou em ENG.
-いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
-Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
-べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
-Queres gravar? Se tu\xfffenão o fizeres, todas as mudanças vão ser perdidas.
+Escolhe as normas-padrão\xfffede mudança de Pokémon no campo de batalha.
+Escolhe se queres ter som\xfffeem Stereo ou em Mono.
+Escolhe como exibir texto.\xfffeEm PT ou em ENG.
+Escolhe se queres ter comunicação\xfffeWireless constante ou não.
+Escolhe se queres escrever\xfffeum relatório antes das\xfffecomunicações C-Gear infravermelhas.
+Já foi escrito um novo relatório,\xfffepor isso isto não pode ser alterado.\xf000븁\x0000
+Queres gravar? Se não o fizeres,\xfffetodas as alterações serão perdidas.
 Sim
 Não
-ダミーメッセージ
+Mensagem de Simulação
