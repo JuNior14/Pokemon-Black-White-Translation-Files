@@ -1,6 +1,6 @@
 High Link
-Live\xfffe　 Caster
-Union Room
+Live\xfffeCaster
+Sala da União
 \xf000ȁ\x0001\x0000
 Infiltração Wireless
 Em
@@ -8,11 +8,11 @@ Não
 Sim
 Não
 Atrás
-Gostarias de guardar a tua \xfffeactividade até este ponto?
-Gravar...\ xfffe Por favor espere um momento 
-C Gear
+Gostarias de guardar a tua\xfffeactividade até este ponto?
+A gravar...\ xfffePor favor, espere um momento.
+C-Gear
 Em
 Não
-High-link \ xfffe Conectar ...
-High-link \ xfffe Convidado: \ xf000Ȁ \ x0001 \ x0000
-High-link \ xfffe Missão
+High-link\xfffeConectar...
+High-link\xfffeConvidado: \xf000Ȁ\x0001\x0000
+High-link\xfffeMissão
